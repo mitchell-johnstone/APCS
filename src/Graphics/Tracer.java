@@ -18,21 +18,41 @@ public class Tracer{
 		int r = 255;
 		int g = 0;
 		int b = 0;
-		Color rainbow = new Color(r,g,b);
+		Color rainbow;
 		Canvas c = new Canvas("Path Tracer TEST", 800,800,Color.BLACK);
 		c.setVisible(true);
-		c.setInkColor(Color.WHITE);
 		Point past ;
 		Point current;
 		current = c.hoverPoint();
-		
+		boolean red = true, green = false;
 		while(true)
 		{
+			if(red){
+				r-=3;
+				g+=3;
+				if(r==0){
+					red=false;
+					green=true;
+				}
+			} else if(green){
+				g-=3;
+				b+=3;
+				if(g==0){
+					green = false;
+				}
+			} else {
+				b-=3;
+				r+=3;
+				if(b==0){
+					red = true;
+				}
+			}
+
+			rainbow= new Color(r,g,b);
+			c.setInkColor(rainbow);
 			past = current;
 			current = c.hoverPoint();
 			c.drawLine(past, current);
-			rainbow= new Color(r,g,b);
-			
 		}
 	}
 }
