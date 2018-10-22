@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="8" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
+    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
+      <change afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Tracer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,33 +37,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="4" />
+          <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="23" />
+          <entry key="java" value="27" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
+          <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="27" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="373" />
-          <entry key="txt" value="195" />
+          <entry key="java" value="1336" />
+          <entry key="txt" value="269" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="373" />
-          <entry key="PLAIN_TEXT" value="195" />
+          <entry key="JAVA" value="1336" />
+          <entry key="PLAIN_TEXT" value="269" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -65,19 +72,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Triangle/TriangleTester.java">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="289">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +83,47 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -121,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/Graphics/Building.java" />
         <option value="$PROJECT_DIR$/src/Graphics/ArtClick.java" />
         <option value="$PROJECT_DIR$/src/Bowl/Bowling.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
       </list>
     </option>
@@ -149,12 +189,6 @@
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,7 +203,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -193,6 +227,13 @@
   <component name="RunManager" selected="Application.Tracer">
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerlinNoiseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphics.PerlinNoiseTest" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,7 +265,13 @@
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
       <item itemvalue="Groovy." />
+      <item itemvalue="Application.PerlinNoiseTest" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PerlinNoiseTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -260,7 +307,7 @@
     <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24904943" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24904943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -277,7 +324,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" weight="0.32944608" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" visible="true" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,7 +337,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This was an update to the tracer program&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Mitchell." />
-    <option name="LAST_COMMIT_MESSAGE" value="This was an update to the tracer program&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Mitchell." />
+    <MESSAGE value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
+    <option name="LAST_COMMIT_MESSAGE" value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.class" />
@@ -327,16 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,6 +459,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Canvas$ShapeListener.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle/TriangleTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -428,10 +469,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="354">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
