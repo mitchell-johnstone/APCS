@@ -4,12 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
-      <change afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" afterDir="false" />
+    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.">
+      <change afterPath="$PROJECT_DIR$/src/Graphics/Worm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Tracer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,46 +23,49 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
-          <entry key="iml" value="2" />
-          <entry key="java" value="27" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="29" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="27" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="29" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1336" />
-          <entry key="txt" value="269" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="2310" />
+          <entry key="txt" value="386" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1336" />
-          <entry key="PLAIN_TEXT" value="269" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="2310" />
+          <entry key="PLAIN_TEXT" value="386" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -74,20 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +100,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            <state relative-caret-position="235">
+              <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="15" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,10 +141,12 @@
       <find>++</find>
       <find>--</find>
       <find>-=2</find>
+      <find>float</find>
     </findStrings>
     <replaceStrings>
       <replace>-=2</replace>
       <replace>-=3</replace>
+      <replace>double</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -150,24 +163,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/src/Chair/ChairTester.java" />
-        <option value="$PROJECT_DIR$/APCS.iml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/src/Unit03/Guide/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
         <option value="$PROJECT_DIR$/src/Graphics/CheckerBoard.java" />
         <option value="$PROJECT_DIR$/src/Graphics/RandomCircles.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Building.java" />
         <option value="$PROJECT_DIR$/src/Graphics/ArtClick.java" />
         <option value="$PROJECT_DIR$/src/Bowl/Bowling.java" />
         <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
+        <option value="$PROJECT_DIR$/APCS.iml" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Worm.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="103" />
-    <option name="y" value="40" />
+    <option name="x" value="80" />
+    <option name="y" value="200" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -177,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,12 +204,17 @@
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tracer">
+  <component name="RunManager" selected="Application.Worm">
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
       <module name="APCS" />
@@ -241,6 +261,13 @@
     </configuration>
     <configuration name="Tracer" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graphics.Tracer" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphics.Worm" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -266,9 +293,11 @@
       <item itemvalue="Application.Chair" />
       <item itemvalue="Groovy." />
       <item itemvalue="Application.PerlinNoiseTest" />
+      <item itemvalue="Application.Worm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Worm" />
         <item itemvalue="Application.PerlinNoiseTest" />
       </list>
     </recent_temporary>
@@ -291,7 +320,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539995624170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
+      <created>1540181015209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540181015209</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
+      <created>1540181037675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540181037675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -315,7 +358,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49873257" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +367,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,7 +381,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This was an update to the tracer program&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Mitchell." />
     <MESSAGE value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
-    <option name="LAST_COMMIT_MESSAGE" value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
+    <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress." />
+    <option name="LAST_COMMIT_MESSAGE" value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.class" />
@@ -353,13 +397,6 @@
     <entry file="file://$PROJECT_DIR$/src/src/Chair/ChairTester.java" />
     <entry file="file://$PROJECT_DIR$/.idea/APCS.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APCS.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -471,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="238">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -489,20 +526,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
+    <entry file="file://$PROJECT_DIR$/APCS.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="190">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>
