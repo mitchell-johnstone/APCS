@@ -14,17 +14,18 @@ public class A2 {
         for(int i : numberArray)
             System.out.print(i + " ");
         double average = sum/(double)numberArray.length;
-        System.out.print("average: " + average);
+        System.out.println();
+        System.out.println("average: " + average);
         for(int i: numberArray)
-            if(i<average) {
-                System.out.print(i);
-            }
+            if(i<average)
+                System.out.print(i+" , ");
+        System.out.println();
         for(int i: numberArray)
             if(i<0)
-                System.out.print(i);
+                System.out.print(i+" , ");
+        System.out.println();
         for(int i: numberArray)
             if(i%2==1)
-                System.out.print(i);
-
+                System.out.print(i+" , ");
     }
 }
