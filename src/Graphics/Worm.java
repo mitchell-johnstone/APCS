@@ -1,13 +1,18 @@
 package Graphics;
 
 import java.awt.*;
+import java.util.Scanner;
 
 public class Worm {
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("What length?");
+        int n = in.nextInt();
+
         Canvas c = new Canvas("Worm TEST", 800, 800, Color.BLACK);
         int r = 100;
         c.setVisible(true);
-        Point[] p = new Point[30];
+        Point[] p = new Point[n];
 
         boolean done = false;
         while(!done){

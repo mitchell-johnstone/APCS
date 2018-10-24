@@ -53,7 +53,8 @@ public class PerlinNoise {
         return value;
     }
     private double Gradient[][][];
-    public PerlinNoise(int n) {
+    public PerlinNoise(int size) {
+        int n = size+1;
         Gradient = new double[n][n][2];
         Random r = new Random();
         for (int i = 0; i < n; i++) {
