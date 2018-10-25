@@ -13,6 +13,8 @@ public class Tracer {
     public static PrintStream p = System.out;
     public static Random r = new Random();
 
+    //Add an erase when the button is clicked
+
     public static void main(String[] args){
         p.println("\n------------------------------------------------------------------------------\n");
         int r = 255;

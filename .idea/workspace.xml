@@ -5,13 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Fish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Skyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Skyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Worm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Worm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chair/Chair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chair/ChairTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Die/Die.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Die/DieTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fish/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fish/FishTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/ArtClick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$CanvasPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$MotionListener$CanvasPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$MotionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$ShapeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/CheckerBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/RandomCircles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Skyline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Tracer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/Worm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Worm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopingReview/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopingReview/SquareSymbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopingReview/SquareTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle/TriangleTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E5L.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E5NL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E6L.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E6NL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/E8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/FacePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit01/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit02/E1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit02/E8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit02/ReplaceTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Bug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/BugTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/CarTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/EmployeeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/ProductTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/RoachPopulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/RoachSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/StudentTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/MilitaryTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/QE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/QETester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/SodaCan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit04/SodaCanTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/CardTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/DaysInMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/GradeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/NumberSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit05/StringSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/DartBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/DataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/FactorGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/FactorPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/FibonacciGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/FibonacciRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/PrimeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit06/PrimeTester.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +100,23 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +124,7 @@
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="44" />
+          <entry key="java" value="54" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -57,7 +132,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="54" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -65,49 +140,37 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="4" />
-          <entry key="java" value="5417" />
-          <entry key="txt" value="419" />
+          <entry key="java" value="6661" />
+          <entry key="txt" value="830" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="5417" />
-          <entry key="PLAIN_TEXT" value="419" />
+          <entry key="JAVA" value="6661" />
+          <entry key="PLAIN_TEXT" value="830" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/A4.java">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/A7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Building.java">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/A8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -128,13 +191,23 @@
       <find>-=2</find>
       <find>float</find>
       <find>'</find>
+      <find>drawfilledp</find>
+      <find>yValuesConvex</find>
+      <find>yValuesConcave</find>
+      <find>xValuesConcave</find>
     </findStrings>
     <replaceStrings>
       <replace>-=2</replace>
       <replace>-=3</replace>
       <replace>double</replace>
       <replace>&quot;</replace>
+      <replace>yValuesConcave</replace>
+      <replace>yValuesConvex</replace>
+      <replace>xValuesConvex</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Admin\Documents\Coding\APCS\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -157,18 +230,24 @@
         <option value="$PROJECT_DIR$/src/Graphics/ArtClick.java" />
         <option value="$PROJECT_DIR$/src/Bowl/Bowling.java" />
         <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
         <option value="$PROJECT_DIR$/APCS.iml" />
         <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/Worm.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Arrayz.java" />
         <option value="$PROJECT_DIR$/src/Arrays/A1.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Chair.java" />
         <option value="$PROJECT_DIR$/src/Arrays/A2.java" />
         <option value="$PROJECT_DIR$/src/Arrays/A3.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A4.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Building.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Worm.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/A4.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/A5.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Fish.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/A6.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/A7.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/A8.java" />
       </list>
     </option>
   </component>
@@ -184,6 +263,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,23 +281,27 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Fish" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/opencv-3.4.3-android-sdk.zip!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/opencv/build/java/x64" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -240,14 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Skyline">
-    <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.A2" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.A7">
     <configuration name="A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.A3" />
       <module name="APCS" />
@@ -255,8 +333,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.A4" />
+    <configuration name="A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A5" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A6" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A7" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,13 +356,6 @@
     </configuration>
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Skyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Skyline" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -299,17 +384,17 @@
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
       <item itemvalue="Application.Worm" />
-      <item itemvalue="Application.A2" />
-      <item itemvalue="Application.Skyline" />
       <item itemvalue="Application.A3" />
-      <item itemvalue="Application.A4" />
+      <item itemvalue="Application.A5" />
+      <item itemvalue="Application.A6" />
+      <item itemvalue="Application.A7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Skyline" />
-        <item itemvalue="Application.A4" />
+        <item itemvalue="Application.A7" />
+        <item itemvalue="Application.A6" />
+        <item itemvalue="Application.A5" />
         <item itemvalue="Application.A3" />
-        <item itemvalue="Application.A2" />
         <item itemvalue="Application.Worm" />
       </list>
     </recent_temporary>
@@ -360,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540345463263</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P">
+      <created>1540413310152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540413310152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -373,14 +465,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23891002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Learn" order="4" />
+      <window_info id="Learn" order="4" weight="0.32953104" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Capture Tool" order="7" />
@@ -442,7 +534,8 @@
     <MESSAGE value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
     <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress." />
     <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.&#10;also, class programs for arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.&#10;also, class programs for arrays" />
+    <MESSAGE value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.class" />
@@ -489,9 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/RandomCircles.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/RandomCircles.class" />
     <entry file="file://$PROJECT_DIR$/src/Graphics/ArtClick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -527,9 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Canvas$ShapeListener.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Canvas$ShapeListener.class" />
     <entry file="file://$PROJECT_DIR$/src/Triangle/TriangleTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -551,20 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -610,20 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -635,9 +696,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="353" column="27" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/A8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -698,7 +826,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

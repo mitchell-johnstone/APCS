@@ -34,6 +34,7 @@ public class A4 {
             if(aWord.substring(0,1).toUpperCase().equals(aWord.substring(0,1)))
                 System.out.print(aWord + " ");
         System.out.println();
+        //search program
         boolean done = false;
         while(!done) {
             System.out.println("What word to search? 0 to exit");

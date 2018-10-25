@@ -21,7 +21,7 @@ public class Worm {
             System.arraycopy(p, 1, p, 0, p.length - 1);
 
             p[p.length-1]=c.hoverPoint();
-            c.setInkColor(Color.YELLOW);
+            c.setInkColor(Color.cyan);
             for (int i = p.length-1; i >=0; i--) {
                 if(p[i]!=null) {
                     c.drawFilledOval(p[i].x-r/2,p[i].y-r/2,r,r);
