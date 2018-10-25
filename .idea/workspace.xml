@@ -5,87 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Fish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Tracer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Worm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Worm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chair/Chair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chair/ChairTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Die/Die.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Die/DieTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fish/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fish/FishTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/ArtClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$CanvasPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$MotionListener$CanvasPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$MotionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas$ShapeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/CheckerBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/RandomCircles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Skyline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Tracer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Tracer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Worm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Worm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopingReview/Loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopingReview/SquareSymbol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopingReview/SquareTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle/TriangleTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E5L.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E5NL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E6L.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E6NL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/E8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/FacePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit01/hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit02/E1_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit02/E8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit02/ReplaceTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Bug.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/BugTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/CarTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/EmployeeTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/ProductTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/RoachPopulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/RoachSimulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit03/Textbook/StudentTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/MilitaryTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/QE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/QETester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/SodaCan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit04/SodaCanTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/CardTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/DaysInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/Grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/GradeTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/NumberSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit05/StringSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/DartBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/DataSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/FactorGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/FactorPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/FibonacciGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/FibonacciRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/PrimeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit06/PrimeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A8.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +21,7 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
@@ -112,11 +33,12 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -140,42 +62,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="4" />
-          <entry key="java" value="6661" />
-          <entry key="txt" value="830" />
+          <entry key="java" value="6850" />
+          <entry key="txt" value="900" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="6661" />
-          <entry key="PLAIN_TEXT" value="830" />
+          <entry key="JAVA" value="6850" />
+          <entry key="PLAIN_TEXT" value="900" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/A7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/A8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -263,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -272,27 +174,11 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Fish" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A7">
+  <component name="RunManager" selected="Application.A8">
     <configuration name="A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.A3" />
       <module name="APCS" />
@@ -354,6 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="A8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A8" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
       <module name="APCS" />
@@ -368,13 +261,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Worm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Worm" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
@@ -383,19 +269,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.Worm" />
       <item itemvalue="Application.A3" />
       <item itemvalue="Application.A5" />
       <item itemvalue="Application.A6" />
       <item itemvalue="Application.A7" />
+      <item itemvalue="Application.A8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A8" />
         <item itemvalue="Application.A7" />
         <item itemvalue="Application.A6" />
         <item itemvalue="Application.A5" />
         <item itemvalue="Application.A3" />
-        <item itemvalue="Application.Worm" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540413310152</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="More Programming classes for class&#10;and update for some graphics">
+      <created>1540492831716</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540492831716</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -466,9 +359,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -478,7 +370,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.3463612" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49873257" weight="0.3463612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,7 +427,8 @@
     <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress." />
     <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.&#10;also, class programs for arrays" />
     <MESSAGE value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
+    <MESSAGE value="More Programming classes for class&#10;and update for some graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="More Programming classes for class&#10;and update for some graphics" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.class" />
@@ -764,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/A8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="29">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
