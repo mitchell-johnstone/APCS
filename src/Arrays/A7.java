@@ -22,6 +22,19 @@ public class A7 {
             System.out.println("F");
 
         //second method: one 2x11 array
-
+        String [][] gradesWithCuttoff = new String[2][11];
+        for (i = 0;  i< cutoff.length; i++) {
+            gradesWithCuttoff[0][i] = grade[i];
+            gradesWithCuttoff[1][i] = String.valueOf(cutoff[i]);
+        }
+        done = false;
+        for (i = 0; i < cutoff.length && !done; i++) {
+            if(Integer.parseInt(gradesWithCuttoff[1][i])<=input)
+                done=true;
+        }
+        if(done)
+            System.out.println(gradesWithCuttoff[0][i-1]);
+        else
+            System.out.println("F");
     }
 }

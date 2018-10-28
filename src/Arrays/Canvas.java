@@ -1,9 +1,10 @@
 package Arrays;// Canvas + Click
-
 import javax.swing.*;
 import java.awt.*;
+import java.util.List;
+import java.util.*;
+import java.awt.geom.*;
 import java.awt.event.*;
-import java.awt.geom.Ellipse2D;
 
 /**
  * Class Canvas - a class to allow for simple graphical
@@ -14,10 +15,10 @@ import java.awt.geom.Ellipse2D;
  * @author Dave Musicant - made some local changes
  * @author Amy Csizmar Dalal - more minor local changes to allow for subclassing and Swing elements
  * @author Jeff Ondich - added setFontSize and getInkColor
- * @author David Liben-Nowell - renamed fillX() and height/width parameters; 
+ * @author David Liben-Nowell - renamed fillX() and height/width parameters;
  *                                              renamed wait() to pause()
  * @author Brian Due - triangle method
- * 2011 
+ * 2011
  */
 
 public class Canvas
@@ -29,7 +30,7 @@ public class Canvas
     private Color inkColor;
     private Image canvasImage;
     private Point clickedPoint;         // IAT
-	private Point currentMousePoint;
+    private Point currentMousePoint;
 
     /**
      * Create a Canvas with default height, width and background color
@@ -76,7 +77,7 @@ public class Canvas
         frame.setTitle(title);
         canvas.setPreferredSize(new Dimension(width, height));
         canvas.addMouseListener (new ShapeListener());  // IAT
-		canvas.addMouseMotionListener(new MotionListener());
+        canvas.addMouseMotionListener(new MotionListener());
         backgroundColor = bgColor;
         inkColor = Color.black;
         frame.pack();
@@ -91,11 +92,11 @@ public class Canvas
 
         // Closes the window "neatly" when exiting the program.
         frame.addWindowListener(new WindowAdapter() {
-                public void windowClosing(WindowEvent e) {
-                    setVisible(false);
-                    System.exit(0);
-                }
-            });
+            public void windowClosing(WindowEvent e) {
+                setVisible(false);
+                System.exit(0);
+            }
+        });
 
         if(graphic == null) {
             // first time: instantiate the offscreen image and fill it with
@@ -121,16 +122,16 @@ public class Canvas
 
     /**
      * Returns the current pen color.
-    */
+     */
     public Color getInkColor()
-   {
+    {
         return inkColor;
     }
 
     /**
      * Set the canvas visibility and brings canvas to the front of screen
      * when made visible. This method can also be used to bring an already
-    * visible canvas to the front of other windows.
+     * visible canvas to the front of other windows.
      * @param visible  true if the canvas should appear on the screen, false otherwise
      */
     public void setVisible(boolean visible)
@@ -182,7 +183,7 @@ public class Canvas
         Color original = graphic.getColor();
         graphic.setColor(backgroundColor);
         Dimension size = canvas.getSize();
-       graphic.fill(new Rectangle(0, 0, size.width, size.height));
+        graphic.fill(new Rectangle(0, 0, size.width, size.height));
         graphic.setColor(original);
         canvas.repaint();
     }
@@ -210,7 +211,7 @@ public class Canvas
         graphic.setColor(backgroundColor);
         graphic.draw(shape);  // erase by drawing background color
         graphic.setColor(original);
-       canvas.repaint();
+        canvas.repaint();
     }
 
     /**
@@ -253,20 +254,20 @@ public class Canvas
         graphic.setColor(original);
         canvas.repaint();
     }
-    
+
     /**
      * Draws a "Point" object on the Canvas.
      * @param  p1 is a Point from mouse click
      * Convert to its x and y coordinates and draw
      */
     public void drawPoint(Point p1)
-    {   graphic.drawLine((int)p1.getX(), (int)p1.getY(), 
-                                           (int)p1.getX(), (int)p1.getY());
+    {   graphic.drawLine((int)p1.getX(), (int)p1.getY(),
+            (int)p1.getX(), (int)p1.getY());
         canvas.repaint();
     }
-    
-    
-    
+
+
+
     /**
      * Draws a line on the Canvas.
      * @param  x1   x coordinate of start of line
@@ -279,21 +280,21 @@ public class Canvas
         graphic.drawLine(x1, y1, x2, y2);
         canvas.repaint();
     }
-/**   
- * * Draws a line on the Canvas, parameters two "points".
+    /**
+     * * Draws a line on the Canvas, parameters two "points".
      * @param  p1   Point 1 clicked
-     * @param  p2   Point 2 clicked   
+     * @param  p2   Point 2 clicked
      * Convert each "point" object to its x, y coordinates
-     */  
-    
+     */
+
     public void drawLine(Point p1, Point p2)
     {
-        graphic.drawLine((int)p1.getX(), (int)p1.getY(), 
-                                            (int)p2.getX(), (int)p2.getY());
+        graphic.drawLine((int)p1.getX(), (int)p1.getY(),
+                (int)p2.getX(), (int)p2.getY());
         canvas.repaint();
     }
 
-    
+
     /**
      * Draws a rectangle on the Canvas.
      * @param  x        x coordinate of top left corner
@@ -303,7 +304,7 @@ public class Canvas
      */
     public void drawRectangle(int x, int y, int width, int height)
     {
-       graphic.draw(new Rectangle(x, y, width, height));
+        graphic.draw(new Rectangle(x, y, width, height));
         canvas.repaint();
     }
 
@@ -322,10 +323,10 @@ public class Canvas
 
     /**
      * Draws a triangle on the Canvas.
-     * @parameters, three coordinate points  
-     * @param  point1: x1, y1    point2: x2, y2    point3: x3, y3
+     * @parameters, three coordinate points
+     * @param   x1, y1    point2: x2, y2    point3: x3, y3
      *
-    */
+     */
     public void drawTriangle(double x1, double y1, double x2, double y2, double x3, double y3)
     {
         graphic.drawLine((int)x1,(int)y1, (int)x2,(int) y2);
@@ -412,14 +413,14 @@ public class Canvas
     /**
      * Sets the foreground color of the Canvas.
      * @param  newColor   the new color for the foreground of the Canvas
-    */
+     */
     private void setForegroundColor(Color newColor)
     {
         graphic.setColor(newColor);
     }
 
     /**
-    * Returns the current color of the foreground.
+     * Returns the current color of the foreground.
      * @return   the color of the foreground of the Canvas
      */
     private Color getForegroundColor()
@@ -443,11 +444,11 @@ public class Canvas
      */
     public void fillBackground(Color newColor)
     {
-         Dimension size = canvas.getSize();
-         backgroundColor = newColor;
-         graphic.setColor(backgroundColor);
-         graphic.fillRect(0, 0, size.width, size.height);
-         graphic.setColor(inkColor);
+        Dimension size = canvas.getSize();
+        backgroundColor = newColor;
+        graphic.setColor(backgroundColor);
+        graphic.fillRect(0, 0, size.width, size.height);
+        graphic.setColor(inkColor);
     }
 
     /**
@@ -471,7 +472,7 @@ public class Canvas
     /**
      * Returns the current font of the canvas.
      * @return     the font currently in use
-    **/
+     **/
     public Font getFont()
     {
         return graphic.getFont();
@@ -484,7 +485,7 @@ public class Canvas
      * @param  newSize  the new point size
      */
     public void setFontSize( int newSize )
-   {
+    {
         Font f = graphic.getFont().deriveFont( (float)newSize );
         setFont( f );
     }
@@ -499,16 +500,16 @@ public class Canvas
         canvas.setPreferredSize(new Dimension(width, height));
         Image oldImage = canvasImage;
         canvasImage = canvas.createImage(width, height);
-        
+
         graphic = (Graphics2D)canvasImage.getGraphics();
         graphic.setColor(backgroundColor);
         graphic.fillRect(0, 0, width, height);
         graphic.setColor(inkColor);
-       graphic.drawImage(oldImage, 0, 0, null);
+        graphic.drawImage(oldImage, 0, 0, null);
         frame.pack();
     }
 
-   /**
+    /**
      * Returns the size of the canvas.
      * @return     The current dimension of the canvas
      */
@@ -534,56 +535,78 @@ public class Canvas
             // ignoring exception at the moment
         }
     }
-    
+
     public Point waitForClick()
     {
         Point ret = null;
         do{  ret = clickedPoint;
-   pause(1);  }while (ret == null);
+            pause(1);  }while (ret == null);
         clickedPoint = null;
         return ret;
     }
-	
-	public Point hoverPoint()
-	{
-		Point ret = null;
-		do{
-			ret = currentMousePoint; pause(1);
-		}while(ret == null);
-		currentMousePoint = null;
-		return ret;
-	}
-	
-	
+
+    //bassically a wait for click, but instead whenever mouse moves
+
+    public Point hoverPoint()
+    {
+        Point ret = null;
+        do{
+            ret = currentMousePoint; pause(1);
+        }while(ret == null);
+        currentMousePoint = null;
+        return ret;
+    }
+
+    //returns the clicked point
+    public Point getClickedPoint()
+    {
+        return clickedPoint;
+    }
+
+    //erases the point
+    public void nullifyClickedPoint()
+    {
+        clickedPoint=null;
+    }
+
+    //gets the current hover point
+    public Point getHoverPoint(){ return currentMousePoint; }
+
+    //erases the current hover point
+    public void nullifyHoverPoint(){ currentMousePoint=null; }
+
+    //subclass for moving the mouse event.
     private class MotionListener implements MouseMotionListener
     {
-		public void mouseDragged(MouseEvent e){}
-		public void mouseMoved(MouseEvent e){
-			currentMousePoint = e.getPoint();
-			canvas.repaint();
-		}
-		protected class CanvasPane extends JPanel
-	    {
-	        public void paint(Graphics g)
-	        {
-	            g.drawImage(canvasImage, 0, 0, null);
-	            super.paint(g);
-	        }
-	    }
-	}
-	
-	private class ShapeListener implements MouseListener
-    {
-        // based on Lewis, Loftus, Cocking, pages 431-434
-        
-        public void mousePressed (MouseEvent event)
-       {
-            clickedPoint = event.getPoint();
-           // System.out.println ("Mouse Pressed at point x = " + clickedPoint.getX()
-           //     + ", y = " + clickedPoint.getY() + ".");
+        //based on the shape listener class below.
+        public void mouseDragged(MouseEvent e){}
+        public void mouseMoved(MouseEvent e){
+            currentMousePoint = e.getPoint();
             canvas.repaint();
         }
-        
+        protected class CanvasPane extends JPanel
+        {
+            public void paint(Graphics g)
+            {
+                g.drawImage(canvasImage, 0, 0, null);
+                super.paint(g);
+            }
+        }
+    }
+
+    //sub class for the mouse buttons
+    private class ShapeListener implements MouseListener
+    {
+        // based on Lewis, Loftus, Cocking, pages 431-434
+
+        public void mousePressed (MouseEvent event)
+        {
+            clickedPoint = event.getPoint();
+            // System.out.println ("Mouse Pressed at point x = " + clickedPoint.getX()
+            //     + ", y = " + clickedPoint.getY() + ".");
+            canvas.repaint();
+        }
+
         public void mouseClicked (MouseEvent event) {}
         public void mouseReleased (MouseEvent event) {}
         public void mouseEntered (MouseEvent event) {}

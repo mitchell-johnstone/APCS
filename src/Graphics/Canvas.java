@@ -324,7 +324,7 @@ public class Canvas
     /**
      * Draws a triangle on the Canvas.
      * @parameters, three coordinate points  
-     * @param  point1: x1, y1    point2: x2, y2    point3: x3, y3
+     * @param   x1, y1    point2: x2, y2    point3: x3, y3
      *
     */
     public void drawTriangle(double x1, double y1, double x2, double y2, double x3, double y3)
@@ -535,7 +535,7 @@ public class Canvas
             // ignoring exception at the moment
         }
     }
-    
+
     public Point waitForClick()
     {
         Point ret = null;
@@ -544,20 +544,41 @@ public class Canvas
         clickedPoint = null;
         return ret;
     }
-	
-	public Point hoverPoint()
-	{
-		Point ret = null;
-		do{
-			ret = currentMousePoint; pause(1);
-		}while(ret == null);
-		currentMousePoint = null;
-		return ret;
-	}
-	
-	
+
+    //bassically a wait for click, but instead whenever mouse moves
+
+    public Point hoverPoint()
+    {
+        Point ret = null;
+        do{
+            ret = currentMousePoint; pause(1);
+        }while(ret == null);
+        currentMousePoint = null;
+        return ret;
+    }
+
+    //returns the clicked point
+    public Point getClickedPoint()
+    {
+        return clickedPoint;
+    }
+
+    //erases the point
+    public void nullifyClickedPoint()
+    {
+        clickedPoint=null;
+    }
+
+    //gets the current hover point
+    public Point getHoverPoint(){ return currentMousePoint; }
+
+    //erases the current hover point
+    public void nullifyHoverPoint(){ currentMousePoint=null; }
+
+	//subclass for moving the mouse event.
     private class MotionListener implements MouseMotionListener
     {
+        //based on the shape listener class below.
 		public void mouseDragged(MouseEvent e){}
 		public void mouseMoved(MouseEvent e){
 			currentMousePoint = e.getPoint();
@@ -572,7 +593,8 @@ public class Canvas
 	        }
 	    }
 	}
-	
+
+	//sub class for the mouse buttons
 	private class ShapeListener implements MouseListener
     {
         // based on Lewis, Loftus, Cocking, pages 431-434
