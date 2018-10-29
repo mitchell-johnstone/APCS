@@ -575,6 +575,18 @@ public class Canvas
     //erases the current hover point
     public void nullifyHoverPoint(){ currentMousePoint=null; }
 
+    public Color getPixelColor(int x_, int y_){
+        Color tmp = null;
+        try{
+            Robot rb = new Robot();
+            tmp = rb.getPixelColor(x_,y_);
+//            System.out.println("Red=" + tmp.getRed() + " Blue=" + tmp.getBlue() + " Green=" + tmp.getGreen());
+        } catch (AWTException e1){
+            e1.printStackTrace();
+        }
+        return tmp;
+    }
+
 	//subclass for moving the mouse event.
     private class MotionListener implements MouseMotionListener
     {

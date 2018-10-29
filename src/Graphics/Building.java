@@ -31,7 +31,7 @@ public class Building{
         int windowWidth = 15;
         int windowHeight = 15;
         Color yellow = new Color(255,215,0, 200);
-        Color black = new Color(0,0,0,200);
+        Color black = new Color(1,1,1,200);
         for (int i = 0; i < height/(windowHeight+5); i++) {
             for (int j = 0; j < width/(windowWidth+5); j++) {
                 int beginningX = (width%(windowWidth+5))/2;
