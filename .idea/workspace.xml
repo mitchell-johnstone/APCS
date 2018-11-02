@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists/StudentIQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$CanvasPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$CanvasPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$MotionListener$CanvasPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$MotionListener$CanvasPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$MotionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$MotionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$ShapeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas$ShapeListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Canvas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Skyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Skyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/TicTacToe.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
@@ -39,7 +39,7 @@
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.33" value="1" />
@@ -47,7 +47,7 @@
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,7 +55,7 @@
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="89" />
+          <entry key="java" value="102" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -63,7 +63,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="102" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -71,16 +71,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="4" />
-          <entry key="java" value="13673" />
-          <entry key="txt" value="1485" />
+          <entry key="java" value="18546" />
+          <entry key="txt" value="1691" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="13673" />
-          <entry key="PLAIN_TEXT" value="1485" />
+          <entry key="JAVA" value="18546" />
+          <entry key="PLAIN_TEXT" value="1691" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -89,24 +89,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/TicTacToe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="303">
+              <caret line="279" lean-forward="true" selection-start-line="279" selection-end-line="279" />
               <folding>
-                <element signature="method#drawSTARS#0;class#Skyline#0" />
-                <element signature="method#moveSTARS#0;class#Skyline#0" />
-                <element signature="method#drawBUILDINGS#0;class#Skyline#0" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Building.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -187,10 +176,17 @@
         <option value="$PROJECT_DIR$/src/Arrays/A5.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Canvas.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/TicTacToe.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Canvas.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Building.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/A1.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/Fish.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/A2.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/StudentIQ.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/A3.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/A4.java" />
+        <option value="$PROJECT_DIR$/src/ArrayLists/A5.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/TicTacToe.java" />
       </list>
     </option>
   </component>
@@ -206,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,6 +230,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -249,6 +245,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ArrayLists" />
       <recent name="Arrays" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -269,16 +266,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Skyline">
-    <configuration name="A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.A5" />
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLists.A2" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.A8" />
+    <configuration name="A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLists.A3" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLists.A4" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLists.A5" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,13 +297,6 @@
     </configuration>
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Skyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Skyline" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -312,13 +316,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Worm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Worm" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
@@ -327,19 +324,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
+      <item itemvalue="Application.A2" />
+      <item itemvalue="Application.A3" />
+      <item itemvalue="Application.A4" />
       <item itemvalue="Application.A5" />
-      <item itemvalue="Application.Worm" />
       <item itemvalue="Application.TicTacToe" />
-      <item itemvalue="Application.Skyline" />
-      <item itemvalue="Application.A8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Skyline" />
         <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.A8" />
         <item itemvalue="Application.A5" />
-        <item itemvalue="Application.Worm" />
+        <item itemvalue="Application.A4" />
+        <item itemvalue="Application.A3" />
+        <item itemvalue="Application.A2" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540706392463</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update to canvas and Skyline&#10;I tried making the stars move in the skyline class, but it sucked. too slow.&#10;As for canvas, I added a method to get the color at a certain point. may be useful.&#10;sincerely&#10;:/">
+      <created>1540838438065</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540838438065</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -431,7 +435,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,13 +446,13 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.3463612" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49873257" weight="0.21159029" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32944608" />
       <window_info anchor="bottom" id="Problems" order="7" sideWeight="0.4992658" weight="0.32944608" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" weight="0.32884097" />
@@ -473,12 +476,10 @@
     <MESSAGE value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
     <MESSAGE value="More Programming classes for class&#10;and update for some graphics" />
     <MESSAGE value="Tracer, tictactoe game&#10;In the tracer class, lily gave me the idea to erase the line. My dad took it one step further. when clicked, the line has a sparkle as it is erased. Originally, in testing, the line was white, but changed to rainbow.&#10;As for the tic tac toe game, it is just that. When the mouse hovers over it, it shows a temporary symbol. On click, it registers the move, changes player, checks if someone wins if if cat's game, and then continues.&#10;Fun stuff. &#10;Yay! &#10;Sincerely,&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tracer, tictactoe game&#10;In the tracer class, lily gave me the idea to erase the line. My dad took it one step further. when clicked, the line has a sparkle as it is erased. Originally, in testing, the line was white, but changed to rainbow.&#10;As for the tic tac toe game, it is just that. When the mouse hovers over it, it shows a temporary symbol. On click, it registers the move, changes player, checks if someone wins if if cat's game, and then continues.&#10;Fun stuff. &#10;Yay! &#10;Sincerely,&#10;:/" />
+    <MESSAGE value="Update to canvas and Skyline&#10;I tried making the stars move in the skyline class, but it sucked. too slow.&#10;As for canvas, I added a method to get the color at a certain point. may be useful.&#10;sincerely&#10;:/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to canvas and Skyline&#10;I tried making the stars move in the skyline class, but it sucked. too slow.&#10;As for canvas, I added a method to get the color at a certain point. may be useful.&#10;sincerely&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.class" />
-    <entry file="file://$PROJECT_DIR$/src/src/Unit06/DataSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/src/Graphics/CheckerBoard.java" />
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DartBoard.class" />
     <entry file="file://$PROJECT_DIR$/src/src/Unit06/DartBoard.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
@@ -637,27 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/CheckerBoard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -672,6 +656,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -686,13 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="577" column="16" selection-start-line="577" selection-start-column="16" selection-end-line="577" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Building.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -717,21 +697,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/TicTacToe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="221">
           <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="method#drawSTARS#0;class#Skyline#0" />
             <element signature="method#moveSTARS#0;class#Skyline#0" />
             <element signature="method#drawBUILDINGS#0;class#Skyline#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/StudentIQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="method#eatPlankton#0;class#Fish#0" />
+            <element signature="method#sharkBite#0;class#Fish#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="279" lean-forward="true" selection-start-line="279" selection-end-line="279" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
