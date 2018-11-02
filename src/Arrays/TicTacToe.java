@@ -4,13 +4,14 @@ import java.awt.*;
 import java.util.Random;
 
 public class TicTacToe {
-    public static int player = 1;
-    public static boolean won = false;
-    static Color p1Tmp = new Color(255,0,0,20);
-    static Color p1 = new Color(255,0,0,255);
-    static Color p2Tmp = new Color(0,0,255,50);
-    static Color p2 = new Color(0,0,255,255);
-    static Point point1 = null; static Point point2=null;
+    private static int player = 1;
+    private static boolean won = false;
+    private static Color p1Tmp = new Color(255,0,0,20);
+    private static Color p1 = new Color(255,0,0,255);
+    private static Color p2Tmp = new Color(0,0,255,50);
+    private static Color p2 = new Color(0,0,255,255);
+    private static int playNumber = 0;
+
     public static void main(String[] args) {
         Canvas c = new Canvas("TicTacToe", 600,600, Color.black);
         c.setVisible(true);
@@ -18,15 +19,15 @@ public class TicTacToe {
         //main game function
         boolean done = false;
         c.setInkColor(Color.white);
-        c.drawLine(300,0,300,600);
-        c.drawString("P vs C", 100,300);
-        c.drawString("P vs P", 400,300);
+        c.drawLine(200,0,200,600);
+        c.drawLine(400,0,400,600);
+        c.drawString("C vs C", 100,300);
+        c.drawString("P vs C", 300,300);
+        c.drawString("P vs P", 500,300);
         Point tmp = c.waitForClick();
-        boolean pvp = ((int)tmp.getX())/300==1;
+        int gameType = ((int)tmp.getX())/200;
         while (!done) {
             player = 1;
-            point1=null;
-            point2=null;
             resetBoard(board, c);
             won = false;
             while (!won) {
@@ -36,11 +37,12 @@ public class TicTacToe {
 
                 //when clicked, real point
                 Point clicked = c.getClickedPoint();
-                if(!pvp) {
+                if(gameType==1) {
                     if (player == -1) {
-                        clicked = CompCheck(board, point1, point2, -1);
-                        if (clicked == null) clicked = CompCheck(board, point1, point2, 1);
+                        clicked = CompCheck(board);
                     }
+                } else if(gameType==0){
+                    clicked = CompCheck(board);
                 }
                 register(board,c,clicked);
                 c.pause(100);
@@ -52,18 +54,13 @@ public class TicTacToe {
             if (player == -1) player += 3;
             c.drawString("Win Player " + player, 270, 300);
             System.out.println("Click to play again");
-            c.waitForClick();
+            if(gameType!=0)c.waitForClick();
+            else done=true;
         }
     }
-    public static void register (int[][]board, Canvas c, Point clicked){
+
+    private static void register (int[][]board, Canvas c, Point clicked){
         if (clicked != null) {
-            if(player==1){
-                if(point1 == null){
-                    point1 = clicked;
-                }else {
-                    if(point2 == null)point2 = clicked;
-                }
-            }
             //update array, check if win
             int x = ((int) clicked.getX()) / 200;
             int y = ((int) clicked.getY()) / 200;
@@ -102,10 +99,11 @@ public class TicTacToe {
                 }
             }
             c.nullifyClickedPoint();
+            playNumber++;
         }
     }
 
-    public static void hoverAnimation (int[][] board, Canvas c, Point hover){
+    private static void hoverAnimation (int[][] board, Canvas c, Point hover){
         if (hover != null) {
             int x = ((int) hover.getX()) / 200;
             int y = ((int) hover.getY()) / 200;
@@ -143,7 +141,7 @@ public class TicTacToe {
         }
     }
 
-    public static void resetBoard(int[][]board, Canvas c){
+    private static void resetBoard(int[][]board, Canvas c){
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 board[i][j]=0;
@@ -157,55 +155,83 @@ public class TicTacToe {
         c.drawLine(400,0,400,600);
         c.drawLine(0,200,600,200);
         c.drawLine(0,400,600,400);
+        playNumber = -1;
     }
 
-    public static Point CompCheck(int [][] board,Point p1, Point p2, int m){
+    private static Point CompCheck(int [][] board){
         Random r = new Random();
-        if(p1==null){
+
+        //first, check if there's a place to win
+        for (int k = 1; k > -2; k-=2) {
+            for (int i = 0; i < 3; i++) {
+                if (board[0][i] + board[1][i] + board[2][i] == 2*player*k) {
+                    int x = 50 + 200 * r.nextInt(3);
+                    int y = 50 + 200 * i;
+                    return new Point(x, y);
+                }
+                if (board[i][0] + board[i][1] + board[i][2] == 2*player*k) {
+                    int x = 50 + 200 * i;
+                    int y = 50 + 200 * r.nextInt(3);
+                    return new Point(x, y);
+                }
+            }
+            if (board[0][0] + board[1][1] + board[2][2] == 2*player*k) {
+                int tmp = 50 + 200 * r.nextInt(3);
+                return new Point(tmp, tmp);
+            }
+            if (board[0][2] + board[1][1] + board[2][0] == 2*player*k) {
+                int x = 50 + 200 * r.nextInt(3);
+                int y = 600 - x;
+                return new Point(x, y);
+            }
+        }
+        //then optimal plays
+        if(playNumber==-1) System.out.println("Error: play# -1");
+        if(playNumber==0){
             int x = 50+200*(r.nextInt(2)==0?0:2);
             int y = 50+200*(r.nextInt(2)==0?0:2);
             return new Point(x,y);
-        }else {
-            if(p2 == null){
+        }else if(playNumber==1){
+            int sum = 0;
+            for (int i = 0; i < 3; i+=2) {
+                for (int j = 0; j < 3; j+=2) {
+                    sum+=board[i][j];
+                }
+            }
+            if(sum==1) {
+                return new Point(300, 300);
+            } else if(board[1][1] == 1){
                 int x = 50+200*(r.nextInt(2)==0?0:2);
                 int y = 50+200*(r.nextInt(2)==0?0:2);
                 return new Point(x,y);
             } else {
-                //first, check if there's a place to win
-                for (int i = 0; i < 3; i++) {
-                    if(board[0][i] + board[1][i] + board[2][i] ==2*m){
-                        int x = 50+200*r.nextInt(3);
-                        int y = 50+200*i;
-                        return new Point(x,y);
-                    }
-                    if(board[i][0] + board[i][1] + board[i][2] ==2*m){
-                        int x = 50+200*i;
-                        int y = 50+200*r.nextInt(3);
-                        return new Point(x,y);
-                    }
-                }
-                if(board[0][0] + board[1][1] + board[2][2] == 2*m){
-                    int x = 50+200*r.nextInt(3);
-                    int y = x;
-                    return new Point(x,y);
-                }
-                if(board[0][2] + board[1][1] + board[2][0] == 2*m){
-                    int x = 50+200*r.nextInt(3);
-                    int y = 600-x;
-                    return new Point(x,y);
-                }
+                return new Point(300, 300);
+            }
+        } else if(playNumber == 2){
+            if(board[1][1]==0){
+                return new Point(300,300);
+            }
+            int x = 50+200*(r.nextInt(2)==0?0:2);
+            int y = 50+200*(r.nextInt(2)==0?0:2);
+            return new Point(x,y);
+        }else if(playNumber==3){
+            if(board[0][0] + board[2][2] == -2*player && board[1][1] == player){
+                int x = r.nextInt(600);
+                int y = (x>200 && x<400)?(r.nextInt(2)==0?100:500):300;
+                return new Point(x,y);
+            }
+            if(board[0][2] + board[2][0] == -2*player && board[1][1] == player){
+                int x = r.nextInt(600);
+                int y = (x>200 && x<400)?(r.nextInt(2)==0?100:500):300;
+                return new Point(x,y);
             }
         }
-        if(m==1) {
-            int x = r.nextInt(600);
-            int y = r.nextInt(600);
-            return new Point(x, y);
-        }
-        return null;
+        int x = r.nextInt(600);
+        int y = r.nextInt(600);
+        return new Point(x, y);
     }
 
-
-    public static int check(int[][] board, Canvas c){
+    private static int check(int[][] board, Canvas c){
         //yellow to draw line
         c.setInkColor(new Color(255,255,0));
         //side to side

@@ -6,15 +6,15 @@ import java.io.*;
 /*
 */
 
-public class Month{
+class Month{
 	private int month;
-	private int days = 0;
 	
-	public Month(int m){
+	Month(int m){
 		month = m;
 	}
 	
-	public int getDays(){
+	int getDays(){
+		int days;
 		switch(month){
 			case 1:
 				days = 31;

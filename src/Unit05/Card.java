@@ -1,22 +1,19 @@
 package Unit05;
 
-import java.util.*;
-import java.io.*;
 
 /*
 */
 
-public class Card{
+class Card{
 	private String c;
-	private String number;
-	private String suit;
 	
-	public Card(String tmp){
+	Card(String tmp){
 		c=tmp;
 	}
 	
-	public String getDescription(){
-		
+	String getDescription(){
+		String number;
+		String suit;
 		if(c.length() == 3){
 			number = c.substring(0,2);
 			suit = c.substring(2);

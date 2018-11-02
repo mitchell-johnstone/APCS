@@ -1,23 +1,18 @@
 package Triangle;
 
-import java.util.*;
-import java.io.*;
 import java.lang.*;
 
 /*
 */
 
-public class Triangle{
-	private double [] []  points = new double[3][2];
+class Triangle{
 							//[point] [x or y]
 	private double [] angles = new double[3]; 
 							//a, b, c
 	private double [] sides = new double[3];
 							//A, B, C
 	
-	public Triangle(double[][] p){
-		points = p;
-		
+	Triangle(double[][] p){
 		for (int i = 0; i<3; i++){
 			double [][]tmp = new double[2][2];
 			for(int j = 0; j<2; j++){
@@ -36,7 +31,6 @@ public class Triangle{
 			i++;
 			for(int j = 0; j<2; j++){
 				for(int h = 0; h<2; h++){
-					int a = 2;
 					if(h ==0 ){
 						tmp[h][j] = p[2][j];
 					}else{
@@ -50,13 +44,13 @@ public class Triangle{
 	}
 	
 	//a * a = b*b + c*c - 2*b*c * cos(A)
-	public void getAngles(){
+	private void getAngles(){
 		angles[0] = Math.toDegrees(Math.acos((Math.pow(sides[0], 2) - Math.pow(sides[1], 2) - Math.pow(sides[2], 2))/(-2*sides[1] * sides[2])));
 		angles[1] = Math.toDegrees(Math.acos((Math.pow(sides[1], 2) - Math.pow(sides[2], 2) - Math.pow(sides[0], 2))/(-2*sides[2] * sides[0])));
 		angles[2] = Math.toDegrees(Math.acos((Math.pow(sides[2], 2) - Math.pow(sides[0], 2) - Math.pow(sides[1], 2))/(-2*sides[0] * sides[1])));
 	}
 	
-	public double getSideLength(double [] [] p){
+	private double getSideLength(double [] [] p){
 		return Math.sqrt(Math.pow(p[0][0]-p[1][0],2) + Math.pow(p[0][1] - p[1][1],2));
 	}
 	
