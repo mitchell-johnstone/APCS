@@ -23,11 +23,9 @@ public class FlatScreen
     { return brand + " diagonal = " + diagonal; }
     public boolean equals (Object s) // FlatScreen "equality" defined
     {
-        if (s instanceof FlatScreen) {
             FlatScreen set = (FlatScreen) s; // cast Object to Class type
 
             return (this.getDiagonal() == set.getDiagonal() && this.getName().equals(set.getName()));
-        }else return false;
     }
 // public boolean equals ( Object s) // direct way without local boolean variable
 // { FlatScreen set = (FlatScreen) s;

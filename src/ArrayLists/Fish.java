@@ -53,4 +53,19 @@ public class Fish {
 	public int getScales(){
 		return numberScales;
 	}
+
+	public boolean equals(Fish fishy){
+		boolean t1 = this.weight == fishy.getWeight();
+		boolean t2 = Math.abs(this.numberScales - fishy.getScales())<.01;
+		boolean t3 = this.name == fishy.name;
+		return t1 && t2 && t3;
+	}
+	@Override
+	public String toString() {
+		return "Fish{" +
+				"weight=" + weight +
+				", numberScales=" + numberScales +
+				", name='" + name + '\'' +
+				'}';
+	}
 }

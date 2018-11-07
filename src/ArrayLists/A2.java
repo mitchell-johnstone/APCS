@@ -1,6 +1,7 @@
 package ArrayLists;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 public class A2 {
@@ -31,12 +32,19 @@ public class A2 {
             }
         }
         int i = 1;
+        fish.add(new Fish(20, "Pudge"));
+        fish.set(1, new Fish(20, "Pudge"));
         for(Fish f : fish){
             System.out.println("Fish "+ i);
             System.out.println("\tScales: " + f.getScales());
             System.out.println("\tWeight: " + f.getWeight());
             System.out.println();
             i++;
+        }
+        for (int j = 0; j < fish.size(); j++) {
+            for (int k = j+1; k < fish.size(); k++) {
+                if(fish.get(j).equals(fish.get(k))) System.out.println("same fishes found at " + j + " and " + k);
+            }
         }
     }
 }

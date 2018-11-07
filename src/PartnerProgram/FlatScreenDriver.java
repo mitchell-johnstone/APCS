@@ -42,11 +42,28 @@ public class FlatScreenDriver {
         for (int i=0; i<6;i++){
             arr.add(new FlatScreen(r.nextInt(25),"Naruto"+i));
         }
+        int tmp = 0;
         for (int i=0;i<2;i++){
-            arr.set(r.nextInt(6),new FlatScreen(32,"twins"+i));
+            int nhut = r.nextInt(6);
+            if(i==0){
+                tmp = nhut;
+            } else {
+                do{
+                    tmp = r.nextInt(6);
+                } while (tmp == nhut);
+            }
+            arr.set(tmp,new FlatScreen(32,"twins"));
         }
-
-
+        System.out.println(Arrays.deepToString(arr.toArray()));
+        for (int i = 0; i<arr.size();i++){
+            for (int j=i+1;j<arr.size();j++){
+                if ((arr.get(i)).equals(arr.get(j))){
+                    arr.set(i,new FlatScreen(99, "Vizio FlatScreen"));
+                    arr.remove(j);
+                }
+            }
+        }
+        System.out.println(Arrays.deepToString(arr.toArray()));
 
     }
 }

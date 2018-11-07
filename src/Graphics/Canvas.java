@@ -1,6 +1,9 @@
 package Graphics;// Canvas + Click
+import javafx.scene.input.KeyCode;
+
 import javax.swing.*;
 import java.awt.*;
+import java.security.Key;
 import java.util.List;
 import java.util.*;
 import java.awt.geom.*;
@@ -78,6 +81,7 @@ public class Canvas
         canvas.setPreferredSize(new Dimension(width, height));
         canvas.addMouseListener (new ShapeListener());  // IAT
 		canvas.addMouseMotionListener(new MotionListener());
+		canvas.addKeyListener(new KeyListener());
         backgroundColor = bgColor;
         inkColor = Color.black;
         frame.pack();
@@ -575,6 +579,7 @@ public class Canvas
     //erases the current hover point
     public void nullifyHoverPoint(){ currentMousePoint=null; }
 
+    //not super effective, but gets colors
     public Color getPixelColor(int x_, int y_){
         Color tmp = null;
         try{
@@ -587,6 +592,20 @@ public class Canvas
         return tmp;
     }
 
+    String currentKey = "";
+    //gets and keys that were typed
+    public String getKey(){
+        String tmp = currentKey;
+        currentKey = "";
+        return tmp;
+    }
+
+    //subclass for listening to the keyboard
+    private class KeyListener implements java.awt.event.KeyListener{
+        public void keyPressed(KeyEvent e){currentKey = e.getKeyText(e.getKeyCode());}
+        public void keyReleased(KeyEvent e){}
+        public void keyTyped(KeyEvent e){}
+    }
 	//subclass for moving the mouse event.
     private class MotionListener implements MouseMotionListener
     {
