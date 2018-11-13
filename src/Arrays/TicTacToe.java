@@ -113,8 +113,6 @@ public class TicTacToe {
 
                     System.out.println("Click to play again");
                     while(c.getClickedPoint()==null){
-                        String s = c.getKey();
-                        if(!s.isEmpty()) System.out.println(s);
                     }
                     if(c.getClickedPoint().getX()>300)done = true;
                     c.nullifyClickedPoint();
