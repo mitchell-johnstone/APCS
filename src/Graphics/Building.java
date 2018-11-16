@@ -15,28 +15,41 @@ public class Building{
 	private Canvas c;
 	private int x_;
 	private int y_;
+	private	int windowWidth = 15;
+	private int windowHeight = 15;
+	private int beginningX;
+	private int beginningY;
+	private Color color;
+	private boolean [][] windows;
 	Building(Canvas c, int height, int width, int x, int y){
 		this.height = height;
 		this.width = width;
 		this.c = c;
 		y_=y;
 		x_=x;
+		color = new Color(r.nextInt(256),r.nextInt(256),r.nextInt(256),200);
+		windows = new boolean[height/(windowHeight+5)][width/(windowWidth+5)];
+		beginningX = (width%(windowWidth+5))/2;
+		beginningY = (height%(windowHeight+5))/2;
+
+		for (int i = 0; i < height/(windowHeight+5); i++) {
+			for (int j = 0; j < width/(windowWidth+5); j++) {
+				windows[i][j] = r.nextInt(4)==1;
+			}
+		}
 	}
 	
 	void draw(){
-		c.setInkColor(new Color(r.nextInt(256),r.nextInt(256),r.nextInt(256),200));
+		c.setInkColor(color);
 		c.drawFilledRectangle(x_,y_,width, height);
 
 		//draw windows
-        int windowWidth = 15;
-        int windowHeight = 15;
         Color yellow = new Color(255,215,0, 200);
         Color black = new Color(1,1,1,200);
+
         for (int i = 0; i < height/(windowHeight+5); i++) {
             for (int j = 0; j < width/(windowWidth+5); j++) {
-                int beginningX = (width%(windowWidth+5))/2;
-                int beginningY = (height%(windowHeight+5))/2;
-                if(r.nextInt(4)==1)
+                if(windows[i][j])
                     c.setInkColor(yellow);
                 else
                     c.setInkColor(black);

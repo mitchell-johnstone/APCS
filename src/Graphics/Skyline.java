@@ -13,9 +13,9 @@ public class Skyline{
 	
 	private static final int WIDTH = 1600;
 	private static final int HEIGHT = 825;
-	private static final Point [] STARS = new Point[500];
+	private static final Star [] STARS = new Star[100];
+	private static final Building [] BUILDINGS = new Building[3];
 	private static final int R = 1;
-	private static final int BNUM = 6;
 	
 	private static Canvas c;
 	public static void main(String[] args){
@@ -23,13 +23,22 @@ public class Skyline{
 		Color black = new Color(0,0,0);
 		c = new Canvas("Skyline", WIDTH,HEIGHT,black);
 		c.setVisible(true);
-		drawSTARS();
-		drawBUILDINGS();
-		while(true){
-			moveSTARS();
+		c.setInkColor(Color.white);
+		for (int i = 0; i < STARS.length; i++) {
+			STARS[i] = new Star(c);
+			STARS[i].start();
+		}
+		while(true) {
+			drawBUILDINGS();
+			c.setInkColor(Color.white);
+			try {
+				Thread.sleep(300);
+			} catch(Exception e){
+			}
+			c.erase();
 		}
 	}
-	public static void drawSTARS(){
+	/*public static void drawSTARS(){
 		c.setInkColor(Color.white);
 		for (int i = 0; i < STARS.length; i++) {
 			int x = r.nextInt(WIDTH);
@@ -54,15 +63,17 @@ public class Skyline{
 				c.drawFilledRectangle((int) STARS[i].getX(), (int) STARS[i].getY(), R, R);
 			}else {STARS[i].setLocation(x,y);}
 		}
-	}
+	}*/
 
 	private static void drawBUILDINGS(){
-		for(int i = 0; i<BNUM; i++){
-			int t = r.nextInt(HEIGHT/75)*75;
-			int x = r.nextInt(WIDTH-80);
-			int w = r.nextInt(WIDTH-x-20)+20;
-			Building b1 = new Building(c,t,w,x, HEIGHT-t);
-			b1.draw();
+		for(int i = 0; i<BUILDINGS.length; i++){
+			if(BUILDINGS[BUILDINGS.length-1] == null) {
+				int t = r.nextInt(HEIGHT / 75) * 75;
+				int x = r.nextInt(WIDTH - 80);
+				int w = r.nextInt(WIDTH - x - 20) + 20;
+				BUILDINGS[i] = new Building(c, t, w, x, HEIGHT - t);
+			}
+			BUILDINGS[i].draw();
 		}
 	}
 }
