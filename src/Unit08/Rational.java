@@ -2,7 +2,7 @@ package Unit08;
 
 import java.util.ArrayList;
 
-public class Rational {
+public class Rational implements Comparable{
     private int numerator;
     private int denominator;
     private static int operationNumber = 0;
@@ -72,6 +72,21 @@ public class Rational {
                     && ((Rational) frac2).getNumerator() == this.getNumerator());
         }
         return false;
+    }
+
+    @Override
+    public int compareTo(Object obj) {
+        if(this.numerator == ((Rational) obj).getNumerator()
+        && this.denominator == ((Rational) obj).getDenominator())
+            return 0;
+        else {
+            double frac1 = this.numerator/((double)this.denominator);
+            double frac2 = ((Rational)obj).getNumerator()/((double)((Rational)obj).getDenominator());
+            if(frac1>frac2)
+                return 1;
+            else
+                return -1;
+        }
     }
 
     public String toString() {

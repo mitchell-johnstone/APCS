@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graphics/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit08/Digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit08/MailTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphics/ImprovedNoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit08/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Jake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/SpeakerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit09/VegetableTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Skyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Skyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoiseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/PerlinNoiseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Graphics/Skyline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit08/Digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit08/Digit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit08/Purse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit08/Purse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit08/PurseTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit08/PurseTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit08/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit08/Rational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit08/RationalTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit08/RationalTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +42,13 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
@@ -46,15 +63,16 @@
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="CompareTo" value="1" />
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="148" />
+          <entry key="java" value="184" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -62,24 +80,25 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="148" />
+          <entry key="JAVA" value="185" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="CompareTo" value="50" />
           <entry key="iml" value="4" />
-          <entry key="java" value="30624" />
-          <entry key="txt" value="3139" />
+          <entry key="java" value="33749" />
+          <entry key="txt" value="3581" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="30624" />
-          <entry key="PLAIN_TEXT" value="3139" />
+          <entry key="JAVA" value="33799" />
+          <entry key="PLAIN_TEXT" value="3581" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -87,32 +106,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Star.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/SpeakerTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="374">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/Coin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/DataSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/DataSetTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/Measurable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/Singer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graphics/Building.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit09/Jake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,6 +215,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -176,26 +270,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit03/Guide/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/CheckerBoard.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/RandomCircles.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/ArtClick.java" />
-        <option value="$PROJECT_DIR$/src/Bowl/Bowling.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
-        <option value="$PROJECT_DIR$/APCS.iml" />
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Arrayz.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A1.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Chair.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A2.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A3.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A4.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Fish.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A6.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A8.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/Worm.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A7.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/A5.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Tracer.java" />
         <option value="$PROJECT_DIR$/src/ArrayLists/A1.java" />
         <option value="$PROJECT_DIR$/src/ArrayLists/A3.java" />
@@ -217,16 +291,36 @@
         <option value="$PROJECT_DIR$/src/Unit08/Cylinder.java" />
         <option value="$PROJECT_DIR$/src/Unit08/Sphere.java" />
         <option value="$PROJECT_DIR$/src/Unit08/Cone.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/RationalTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Rational.java" />
         <option value="$PROJECT_DIR$/src/Unit08/Coin.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Purse.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/PurseTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Digit.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/MailTester.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Building.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Star.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Skyline.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/PerlinExample.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/CompareTo" />
+        <option value="$PROJECT_DIR$/src/Unit09/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Vegetable.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/MailTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/Digit.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Rational.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/Purse.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/VegetableTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/RationalTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/PurseTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit08/Rational.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Jake.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Singer.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/SpeakerTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Coin.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/DataSetTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Measurable.java" />
       </list>
     </option>
   </component>
@@ -262,8 +356,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,17 +372,19 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Admin/Documents/Coding/APCS/src/Graphics/Tracer.java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/opencv/build/java/x64" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Measurable.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -299,6 +393,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Unit08" />
+      <recent name="Unit09" />
       <recent name="ArrayLists" />
       <recent name="Arrays" />
     </key>
@@ -320,9 +416,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Skyline">
+  <component name="RunManager" selected="Application.SpeakerTester">
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprovedNoiseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphics.ImprovedNoiseTest" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -349,15 +452,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit08.ShapeTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Skyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Skyline" />
+    <configuration name="SpeakerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit09.SpeakerTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -378,19 +474,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.ShapeTester" />
-      <item itemvalue="Application.RationalTester" />
       <item itemvalue="Application.PurseTester" />
       <item itemvalue="Application.MailTester" />
-      <item itemvalue="Application.Skyline" />
+      <item itemvalue="Application.ImprovedNoiseTest" />
+      <item itemvalue="Application.RationalTester" />
+      <item itemvalue="Application.SpeakerTester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Skyline" />
-        <item itemvalue="Application.MailTester" />
+        <item itemvalue="Application.SpeakerTester" />
         <item itemvalue="Application.PurseTester" />
         <item itemvalue="Application.RationalTester" />
-        <item itemvalue="Application.ShapeTester" />
+        <item itemvalue="Application.MailTester" />
+        <item itemvalue="Application.ImprovedNoiseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542149689927</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Stars move and digits write&#10;For the skyline class, I decided to implement a star class that would control each star and set it to be a new thread in the processor.&#10;This allowed for the stars to move seperate to the timing of the main program and more independent.&#10;As well, for the digit and mail files, those were for APCS, where you converted a zip code into a series of | and :. &#10;sincerely,&#10;MJ&#10;:/">
+      <created>1542411335410</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542411335410</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -519,7 +622,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -529,7 +632,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.3018868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -565,187 +668,10 @@
     <MESSAGE value="Major TicTacToe update&#10;YAY! TTT game can now be fully automatic&#10;I made the computer check situations better&#10;as well, more updates to random files w/ warnings. &#10;also, partner program is a test for school work.&#10;sincerely,&#10;:/" />
     <MESSAGE value="more class projects, improved TTT&#10;a lot of the update includes updates to files that were required for class. For example, the PartnerProgram repository is actually for a partner test, where I coded one section and someone else coded the other.&#10;In TTT, the computer has been tested a lot and verified. As well, it now loops back to the menu if not Computer vs Computer.&#10;well, that's all.&#10;adios&#10;farewell&#10;-MJ&#10;:/" />
     <MESSAGE value="Lots of code for class&#10;unit 08 is part for AP Comp Sci&#10;Coin, purse, and pursetester are all for a purse project&#10;rational class is for fractions&#10;shapes were all as a demonstration for future inheritance&#10;otherwise, updates to make things work better.&#10;(Attempt at keyboard, not successful)&#10;sincerely,&#10;MJ&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lots of code for class&#10;unit 08 is part for AP Comp Sci&#10;Coin, purse, and pursetester are all for a purse project&#10;rational class is for fractions&#10;shapes were all as a demonstration for future inheritance&#10;otherwise, updates to make things work better.&#10;(Attempt at keyboard, not successful)&#10;sincerely,&#10;MJ&#10;:/" />
+    <MESSAGE value="Stars move and digits write&#10;For the skyline class, I decided to implement a star class that would control each star and set it to be a new thread in the processor.&#10;This allowed for the stars to move seperate to the timing of the main program and more independent.&#10;As well, for the digit and mail files, those were for APCS, where you converted a zip code into a series of | and :. &#10;sincerely,&#10;MJ&#10;:/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stars move and digits write&#10;For the skyline class, I decided to implement a star class that would control each star and set it to be a new thread in the processor.&#10;This allowed for the stars to move seperate to the timing of the main program and more independent.&#10;As well, for the digit and mail files, those were for APCS, where you converted a zip code into a series of | and :. &#10;sincerely,&#10;MJ&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Triangle/TriangleTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APCS.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chair/Chair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Arrayz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Chair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="993" column="16" selection-start-line="993" selection-start-column="16" selection-end-line="993" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/CheckerBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Tracer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/awt/event/MouseMotionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/A8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayLists/A3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Worm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayLists/A1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -858,58 +784,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/RationalTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit08/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Purse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/PurseTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/MailTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Digit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#1300#1301#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,18 +800,250 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="204">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphics/Star.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="340">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="78" selection-start-line="83" selection-start-column="78" selection-end-line="83" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/ImprovedNoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Comparable">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Rational.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/MailTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Vegetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/Digit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/VegetableTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/PurseTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/RationalTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit08/Purse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Speaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Jake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Singer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Coin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DataSetTester.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Measurable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/SpeakerTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/DataSetTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Measurable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

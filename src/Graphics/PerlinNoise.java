@@ -27,7 +27,7 @@ public class PerlinNoise {
     }
 
     // Compute Perlin noise at coordinates x, y
-    public double perlin(double x, double y) {
+    public double getValue(double x, double y) {
 
         // Determine grid cell coordinates
         int x0 = (int)(x);
@@ -37,8 +37,8 @@ public class PerlinNoise {
 
         // Determine interpolation weights
         // Could also use higher order polynomial/s-curve here
-        double sx = x - (double)x0;
-        double sy = y - (double)y0;
+        double sx = fade(x - (double)x0);
+        double sy = fade(y - (double)y0);
 
         // Interpolate between grid point gradients
         double n0, n1, ix0, ix1, value;
@@ -53,17 +53,16 @@ public class PerlinNoise {
         return value;
     }
     private double Gradient[][][];
-    public PerlinNoise(int size) {
-        int n = size+1;
+    public PerlinNoise(int size, int scale) {
+        int n = size*scale+scale+1;
         Gradient = new double[n][n][2];
         Random r = new Random();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 Gradient[i][j][0]=r.nextDouble()*2-1;
                 double t1 = Gradient[i][j][0];
-                double t2 = 1-t1*t1;
-                Gradient[i][j][0]=r.nextInt(2)==1?t2:-1*t2;
-
+                double t2 = Math.sqrt(1-t1*t1);
+                Gradient[i][j][1]=r.nextInt(2)==1?t2:-t2;
             }
         }
         /*for (int i = 0; i < p.length; i++) {
@@ -103,9 +102,9 @@ public class PerlinNoise {
         );
     }
 
-    static double fade(double t) {
+    */static double fade(double t) {
         return t * t * t * (t * (t * 6 - 15) + 10);
-    }
+    }/*
 
     static double lerp(double t, double a, double b) {
         return a + t * (b - a);

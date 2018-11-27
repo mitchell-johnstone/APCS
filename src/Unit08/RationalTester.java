@@ -17,5 +17,13 @@ public class RationalTester {
         System.out.println("r1 - r2: " + r4 );
         System.out.println("r1 * r2: " + r5 );
         System.out.println("r1 / r2: " + r6 );
+
+        if(r1.compareTo(r2)>0){
+            System.out.println("first fraction is greater than second");
+        } else if(r1.compareTo(r2)>0){
+            System.out.println("first fraction is less than second");
+        } else {
+            System.out.println("first fraction is same as second");
+        }
     }
 }

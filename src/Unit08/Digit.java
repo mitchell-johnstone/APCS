@@ -17,7 +17,7 @@ public class Digit {
 
     private void convertToBar(){
         int n = Integer.parseInt(number);
-        n=n==0?11:n;
+        n = (n==0?11:n);
         int[] bar = new int[5];
         if(n==1||n==2||n==4||n==7){
             bar[4]=1;
@@ -25,7 +25,7 @@ public class Digit {
         for (int i = 0; i<4; i++) {
             if(n/WEIGHT[i]>0){
                 bar[i] = 1;
-                n-=i;
+                n-=WEIGHT[i];
             } else {
                 bar[i]=0;
             }
@@ -42,7 +42,7 @@ public class Digit {
     }
 
     private void convertToNum(){
-        int [] tmp = new int[barcode.length()];
+        int[] tmp = new int[barcode.length()];
         for (int i = 0; i < barcode.length(); i++) {
             tmp[i] = barcode.charAt(i)=='|'?1:0;
         }
