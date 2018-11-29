@@ -12,6 +12,7 @@ public class DataSet
       sum = 0;
       count = 0;
       maximum = null;
+      minimum = null;
    }
 
    /**
@@ -23,6 +24,8 @@ public class DataSet
       sum = sum + x.getMeasure();
       if (count == 0 || maximum.getMeasure() < x.getMeasure())
          maximum = x;
+      if (count == 0 || minimum.getMeasure() > x.getMeasure())
+         minimum = x;
       count++;
    }
 
@@ -45,7 +48,17 @@ public class DataSet
       return maximum;
    }
 
+   /**
+    Gets the smalles of the added data.
+    @return the minimum or 0 if no data has been added
+    */
+   public Measurable getMinimum()
+   {
+      return minimum;
+   }
+
    private double sum;
    private Measurable maximum;
+   private Measurable minimum;
    private int count;
 }

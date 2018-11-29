@@ -1,11 +1,11 @@
-package Fish;
+package Unit09;
 
 import java.util.*;
 
 /*
 */
 
-public class Fish{
+public class Fish implements Measurable{
 	private double weight;
 	private int numberScales;
 	private String name;
@@ -52,5 +52,10 @@ public class Fish{
 	
 	public int getScales(){
 		return numberScales;
+	}
+
+	@Override
+	public double getMeasure() {
+		return weight;
 	}
 }
