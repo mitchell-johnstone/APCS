@@ -5,25 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Executive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/General.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/HourlyWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/JobTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Nicolet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/SalariedWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/StudentAthlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/StudentFEARMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/WorkerTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/classTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/MilleniumFalcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Rhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/VehicleTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit10/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit10/Class.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +37,10 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="6" />
@@ -61,7 +60,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,7 +69,7 @@
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="228" />
+          <entry key="java" value="253" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -78,7 +77,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="229" />
+          <entry key="JAVA" value="254" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -87,16 +86,16 @@
         <counts>
           <entry key="CompareTo" value="50" />
           <entry key="iml" value="4" />
-          <entry key="java" value="38382" />
-          <entry key="txt" value="3986" />
+          <entry key="java" value="42999" />
+          <entry key="txt" value="4240" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="38432" />
-          <entry key="PLAIN_TEXT" value="3986" />
+          <entry key="JAVA" value="43049" />
+          <entry key="PLAIN_TEXT" value="4240" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -105,41 +104,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit10/classTester.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="470">
+              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit10/General.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="527">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit10/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding>
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -204,24 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoise.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/PerlinExample.java" />
-        <option value="$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/CompareTo" />
-        <option value="$PROJECT_DIR$/src/Unit09/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Vegetable.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/MailTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Digit.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Rational.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Purse.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/VegetableTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/RationalTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/PurseTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit08/Rational.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Speaker.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Dog.java" />
         <option value="$PROJECT_DIR$/src/Unit09/Jake.java" />
         <option value="$PROJECT_DIR$/src/Unit09/Singer.java" />
         <option value="$PROJECT_DIR$/src/Unit09/SpeakerTester.java" />
@@ -253,16 +239,34 @@
         <option value="$PROJECT_DIR$/src/Unit10/Parent.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Tester.java" />
         <option value="$PROJECT_DIR$/src/Unit10/classTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Class.java" />
         <option value="$PROJECT_DIR$/src/Unit10/General.java" />
+        <option value="$PROJECT_DIR$/src/Unit09/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Class.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Rhombus.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/ShapeTester.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Car.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Truck.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/VehicleTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/MilleniumFalcon.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/InheritCar/Car.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="200" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="82" />
+    <option name="y" value="85" />
+    <option name="width" value="1620" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -290,7 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,26 +310,41 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit08" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritCar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Admin/Documents/Coding/APCS/src/Unit10/SalariedWorker.java" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Measurable.java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Unit10" />
       <recent name="Unit09" />
       <recent name="Unit08" />
       <recent name="ArrayLists" />
@@ -350,7 +368,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.classTester">
+  <component name="RunManager" selected="Application.CarLotTester">
+    <configuration name="CarLotTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit10.InheritCar.CarLotTester" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
       <module name="APCS" />
@@ -358,22 +383,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Connect4" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JobTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit10.JobTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nicolet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit10.Nicolet" />
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit10.ShapeTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -381,6 +392,13 @@
     </configuration>
     <configuration name="Tracer" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graphics.Tracer" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit10.VehicleTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -408,19 +426,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.Connect4" />
-      <item itemvalue="Application.Nicolet" />
-      <item itemvalue="Application.JobTester" />
       <item itemvalue="Application.WorkerTester" />
       <item itemvalue="Application.classTester" />
+      <item itemvalue="Application.ShapeTester" />
+      <item itemvalue="Application.VehicleTester" />
+      <item itemvalue="Application.CarLotTester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarLotTester" />
+        <item itemvalue="Application.VehicleTester" />
+        <item itemvalue="Application.ShapeTester" />
         <item itemvalue="Application.classTester" />
         <item itemvalue="Application.WorkerTester" />
-        <item itemvalue="Application.JobTester" />
-        <item itemvalue="Application.Nicolet" />
-        <item itemvalue="Application.Connect4" />
       </list>
     </recent_temporary>
   </component>
@@ -561,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543529159818</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/">
+      <created>1544122979626</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1544122979626</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -577,7 +602,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24228792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -585,6 +610,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="FRC" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.3018868" />
@@ -627,129 +653,10 @@
     <MESSAGE value="Lots of code for class" />
     <MESSAGE value="files from Due&#10;this commit has a lot of files from my teacher&#10;this unit involves interfaces. kinda cool. idk." />
     <MESSAGE value="working with interfaces, connect 4&#10;interface testing, including a dataset that computes max and mins of different classes.&#10;connect 4 is from last year, but still one of my most prized possessions. so good. working amazing.&#10;have fun with it.&#10;MJ&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="working with interfaces, connect 4&#10;interface testing, including a dataset that computes max and mins of different classes.&#10;connect 4 is from last year, but still one of my most prized possessions. so good. working amazing.&#10;have fun with it.&#10;MJ&#10;:/" />
+    <MESSAGE value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Rational.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/MailTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Vegetable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Digit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/VegetableTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/PurseTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/RationalTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Purse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Speaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Singer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/BankAccount.java" />
-    <entry file="file://$USER_HOME$/Downloads/Coin.java" />
-    <entry file="file://$USER_HOME$/Downloads/DataSet.java" />
-    <entry file="file://$USER_HOME$/Downloads/DataSetTester.java" />
-    <entry file="file://$USER_HOME$/Downloads/Measurable.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unit09/SpeakerTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit09/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -768,12 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="62" column="21" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="62" selection-end-column="21" />
-          <folding>
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,10 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-          <folding>
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -891,16 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,14 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,12 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -943,12 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,13 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -977,42 +837,202 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/classTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/General.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit09/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/classTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/General.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangle/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Rhombus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/ShapeTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/MilleniumFalcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+          <folding>
+            <marker date="1544637794462" expanded="true" signature="1130:1638" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/VehicleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
         </state>
       </provider>
     </entry>
