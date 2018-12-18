@@ -12,6 +12,13 @@ public class CarLot {
         numberOfCars++;
     }
 
+    public void printCarsInLot(){
+        for (int i = 0; i<numberOfCars; i++){
+            Car c = lot[i];
+            System.out.println(c);
+        }
+    }
+
     private ArrayList<Car> findMatchingCars(int year, String make){
         ArrayList<Car> cars = new ArrayList <>();
         for (int i = 0; i < numberOfCars; i++) {

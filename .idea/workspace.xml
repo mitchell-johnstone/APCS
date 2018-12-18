@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/MilleniumFalcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit10/VehicleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit10/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/RecursiveGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/RecursiveSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit10/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit10/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +25,7 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
@@ -47,6 +35,7 @@
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="3" />
@@ -60,7 +49,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -69,7 +58,7 @@
           <entry key="class" value="5" />
           <entry key="groovy" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="253" />
+          <entry key="java" value="259" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -77,7 +66,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="254" />
+          <entry key="JAVA" value="260" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -86,7 +75,7 @@
         <counts>
           <entry key="CompareTo" value="50" />
           <entry key="iml" value="4" />
-          <entry key="java" value="42999" />
+          <entry key="java" value="44603" />
           <entry key="txt" value="4240" />
           <entry key="xml" value="1" />
         </counts>
@@ -94,7 +83,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="43049" />
+          <entry key="JAVA" value="44653" />
           <entry key="PLAIN_TEXT" value="4240" />
           <entry key="XML" value="1" />
         </counts>
@@ -104,23 +93,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="86" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unit10/Clock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/RecursiveGCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/RecursiveSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            <state relative-caret-position="544">
+              <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
               <folding>
                 <element signature="e#354#355#0" expanded="true" />
                 <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
                 <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
                 <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,21 +153,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#89#90#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+            <state relative-caret-position="408">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -208,9 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit09/Jake.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Singer.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/SpeakerTester.java" />
         <option value="$PROJECT_DIR$/src/Unit09/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/Unit09/Coin.java" />
         <option value="$PROJECT_DIR$/src/Unit09/Measurable.java" />
@@ -259,6 +267,9 @@
         <option value="$PROJECT_DIR$/src/Unit10/InheritCar/Car.java" />
         <option value="$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java" />
         <option value="$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/RecursiveGCD.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/RecursiveSum.java" />
+        <option value="$PROJECT_DIR$/src/Unit10/Clock.java" />
       </list>
     </option>
   </component>
@@ -310,20 +321,7 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
-              <item name="InheritCar" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarLotTester">
+  <component name="RunManager" selected="Application.RecursiveGCD">
     <configuration name="CarLotTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit10.InheritCar.CarLotTester" />
       <module name="APCS" />
@@ -383,8 +381,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit10.ShapeTester" />
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit10.Clock" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.RecursiveGCD" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.RecursiveSum" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -404,20 +416,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit10.WorkerTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="classTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit10.classTester" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
@@ -426,19 +424,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.WorkerTester" />
-      <item itemvalue="Application.classTester" />
-      <item itemvalue="Application.ShapeTester" />
       <item itemvalue="Application.VehicleTester" />
       <item itemvalue="Application.CarLotTester" />
+      <item itemvalue="Application.Clock" />
+      <item itemvalue="Application.RecursiveSum" />
+      <item itemvalue="Application.RecursiveGCD" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveGCD" />
+        <item itemvalue="Application.RecursiveSum" />
+        <item itemvalue="Application.Clock" />
         <item itemvalue="Application.CarLotTester" />
         <item itemvalue="Application.VehicleTester" />
-        <item itemvalue="Application.ShapeTester" />
-        <item itemvalue="Application.classTester" />
-        <item itemvalue="Application.WorkerTester" />
       </list>
     </recent_temporary>
   </component>
@@ -586,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544122979626</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/">
+      <created>1544639294415</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1544639294415</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -602,7 +607,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24228792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24550128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -610,20 +615,20 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="FRC" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49873257" visible="true" weight="0.3018868" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32944608" />
-      <window_info anchor="bottom" id="Problems" order="7" sideWeight="0.4992658" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4948605" weight="0.32884097" />
-      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32884097" />
+      <window_info anchor="bottom" id="FRC" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49873257" visible="true" weight="0.3018868" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32944608" />
+      <window_info anchor="bottom" id="Problems" order="8" sideWeight="0.4992658" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49746513" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4948605" weight="0.32884097" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -657,27 +662,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Coin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Measurable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/DataSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="62" column="21" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit09/DataSetTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -963,9 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-          <folding>
-            <marker date="1544637794462" expanded="true" signature="1130:1638" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -991,48 +972,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="86" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        <state relative-caret-position="544">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
           <folding>
             <element signature="e#354#355#0" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
             <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
             <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#89#90#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/InheritCar/CarLotTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit11/RecursiveSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+        <state relative-caret-position="238">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/RecursiveGCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit10/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
