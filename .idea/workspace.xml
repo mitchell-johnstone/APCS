@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/Circles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/Circles2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/SquareThingy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit11/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/P3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,17 +28,17 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="45" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="6" />
-          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.14" value="5" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="3" />
@@ -48,7 +52,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,7 +69,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="264" />
+          <entry key="JAVA" value="271" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -74,16 +78,16 @@
         <counts>
           <entry key="CompareTo" value="50" />
           <entry key="iml" value="4" />
-          <entry key="java" value="46210" />
-          <entry key="txt" value="4479" />
+          <entry key="java" value="46241" />
+          <entry key="txt" value="4797" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="46260" />
-          <entry key="PLAIN_TEXT" value="4479" />
+          <entry key="JAVA" value="49229" />
+          <entry key="PLAIN_TEXT" value="4800" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -91,11 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit11/P1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="102">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -103,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit11/ImprovedP1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="799">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,10 +117,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/P2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/Circles2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/Circles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/SnowFlake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/SquareThingy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit11/P3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -181,13 +245,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit09/Die.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Person.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Measurer.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Fish.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/DataSet2_0.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/PersonMeasurer.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/DataSetTester.java" />
         <option value="$PROJECT_DIR$/src/Graphics/Connect4.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Student.java" />
         <option value="$PROJECT_DIR$/src/Unit10/StudentAthlete.java" />
@@ -229,9 +286,16 @@
         <option value="$PROJECT_DIR$/src/Unit11/RecursiveSum.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Clock.java" />
         <option value="$PROJECT_DIR$/src/Unit11/P2.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/P1.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/Canvas.java" />
         <option value="$PROJECT_DIR$/src/Unit11/P3.java" />
         <option value="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/P1.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SquareThingy.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/CirclesInCircle.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SnowFlake.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/Circles2.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/Circles.java" />
       </list>
     </option>
   </component>
@@ -284,6 +348,12 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Unit11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -303,11 +373,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Unit11" />
       <recent name="Unit10" />
       <recent name="Unit09" />
       <recent name="Unit08" />
       <recent name="ArrayLists" />
-      <recent name="Arrays" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Coding\APCS\tmp" />
@@ -327,7 +397,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImprovedP1">
+  <component name="RunManager" selected="Application.Circles">
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
       <module name="APCS" />
@@ -335,36 +405,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImprovedP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.ImprovedP1" />
+    <configuration name="Circles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.Circles" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.P1" />
+    <configuration name="Circles2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.Circles2" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.P2" />
+    <configuration name="SerpTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.SerpTriangle" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.P3" />
+    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.SnowFlake" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.RecursiveGCD" />
+    <configuration name="SquareThingy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.SquareThingy" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -385,19 +455,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.RecursiveGCD" />
-      <item itemvalue="Application.P1" />
-      <item itemvalue="Application.P2" />
-      <item itemvalue="Application.P3" />
-      <item itemvalue="Application.ImprovedP1" />
+      <item itemvalue="Application.SerpTriangle" />
+      <item itemvalue="Application.SnowFlake" />
+      <item itemvalue="Application.SquareThingy" />
+      <item itemvalue="Application.Circles2" />
+      <item itemvalue="Application.Circles" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImprovedP1" />
-        <item itemvalue="Application.P3" />
-        <item itemvalue="Application.P1" />
-        <item itemvalue="Application.P2" />
-        <item itemvalue="Application.RecursiveGCD" />
+        <item itemvalue="Application.Circles" />
+        <item itemvalue="Application.Circles2" />
+        <item itemvalue="Application.SnowFlake" />
+        <item itemvalue="Application.SerpTriangle" />
+        <item itemvalue="Application.SquareThingy" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545093644635</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/">
+      <created>1545173914662</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545173914662</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -572,10 +649,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1750663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14524421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -586,7 +663,7 @@
       <window_info anchor="bottom" id="FRC" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49873257" visible="true" weight="0.30559346" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49873257" visible="true" weight="0.3490566" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -628,45 +705,10 @@
     <MESSAGE value="working with interfaces, connect 4&#10;interface testing, including a dataset that computes max and mins of different classes.&#10;connect 4 is from last year, but still one of my most prized possessions. so good. working amazing.&#10;have fun with it.&#10;MJ&#10;:/" />
     <MESSAGE value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
     <MESSAGE value="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/" />
+    <MESSAGE value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/PersonMeasurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Measurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/DataSet2_0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/StudentN.java" />
-    <entry file="file://$PROJECT_DIR$/src/Graphics/Connect4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="138" column="41" selection-start-line="138" selection-start-column="41" selection-end-line="138" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit10/Nicolet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -877,10 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -902,10 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,9 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,16 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,34 +992,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/P2.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="357">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/P3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/ImprovedP1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="799">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/P1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="102">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SquareThingy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SnowFlake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Circles2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Circles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

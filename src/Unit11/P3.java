@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class P3 {
     public static int BaseAndPower(int b, int p){
-        if(p == 0 ) return 1;
+        if(p == 0) return 1;
         else return b*BaseAndPower(b,p-1);
     }
     public static void main(String[] args) {
