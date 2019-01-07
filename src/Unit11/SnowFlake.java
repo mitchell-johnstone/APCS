@@ -8,6 +8,7 @@ public class SnowFlake {
             c.drawLine(x,y,x+(int)(length*Math.cos(Math.toRadians(startingAngle))), y+(int)(length*Math.sin(Math.toRadians(startingAngle))));
             c.pause(5);
         } else {
+//            c.drawLine(x,y,x+(int)(length*Math.cos(Math.toRadians(startingAngle))), y+(int)(length*Math.sin(Math.toRadians(startingAngle))));
             flake(c, level-1, length/3, x,y,startingAngle);
             int x2 = (int)(x+length/3*Math.cos(Math.toRadians(startingAngle)));
             int y2 = (int)(y+length/3*Math.sin(Math.toRadians(startingAngle)));

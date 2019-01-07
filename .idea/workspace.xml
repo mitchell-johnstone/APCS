@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit11/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/Circles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/Circles2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/SquareThingy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/FourSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/Square2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/MazeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/Sentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit11/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/P3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +34,17 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="48" />
+          <entry key="project.closed" value="52" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="6" />
-          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.14" value="6" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="3" />
@@ -52,7 +58,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -69,7 +75,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="271" />
+          <entry key="JAVA" value="294" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -86,8 +92,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="49229" />
-          <entry key="PLAIN_TEXT" value="4800" />
+          <entry key="JAVA" value="55616" />
+          <entry key="PLAIN_TEXT" value="5107" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -96,91 +102,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/P1.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit13/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/ImprovedP1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            <state relative-caret-position="340">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#6393#6394#0" expanded="true" />
+                <element signature="e#6420#6421#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/P2.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/Circles2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+            <state relative-caret-position="136">
+              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/Circles.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/SnowFlake.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/SquareThingy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/P3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -216,6 +165,7 @@
       <find>playNumber</find>
       <find>gameT</find>
       <find>barcode</find>
+      <find>return</find>
     </findStrings>
     <replaceStrings>
       <replace>-=2</replace>
@@ -227,6 +177,7 @@
       <replace>STARS</replace>
       <replace>&quot;</replace>
       <replace>private</replace>
+      <replace>c = true</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Admin\Documents\Coding\APCS\src</dir>
@@ -245,18 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Graphics/Connect4.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Student.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/StudentAthlete.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/StudentFEARMember.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Nicolet.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Manager.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Executive.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/JobTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Worker.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/SalariedWorker.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/HourlyWorker.java" />
         <option value="$PROJECT_DIR$/src/Unit10/WorkerTester.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Interface.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Parent.java" />
@@ -290,12 +229,24 @@
         <option value="$PROJECT_DIR$/src/Unit11/Canvas.java" />
         <option value="$PROJECT_DIR$/src/Unit11/P3.java" />
         <option value="$PROJECT_DIR$/src/Unit11/ImprovedP1.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" />
         <option value="$PROJECT_DIR$/src/Unit11/SquareThingy.java" />
         <option value="$PROJECT_DIR$/src/Unit11/CirclesInCircle.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/SnowFlake.java" />
         <option value="$PROJECT_DIR$/src/Unit11/Circles2.java" />
         <option value="$PROJECT_DIR$/src/Unit11/Circles.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/FourSquare.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SnowFlake.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/Square2.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/multiple.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/P1.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/P3.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/P4.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/P5.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/P2.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/Sentence.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/Maze.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/MazeSearch.java" />
       </list>
     </option>
   </component>
@@ -330,8 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,18 +297,20 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit11" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,11 +324,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Unit13" />
       <recent name="Unit11" />
       <recent name="Unit10" />
       <recent name="Unit09" />
       <recent name="Unit08" />
-      <recent name="ArrayLists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Coding\APCS\tmp" />
@@ -397,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Circles">
+  <component name="RunManager" selected="Application.MazeSearch">
     <configuration name="Chair" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
       <module name="APCS" />
@@ -405,36 +356,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.Circles" />
+    <configuration name="MazeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.MazeSearch" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circles2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.Circles2" />
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.P2" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerpTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.SerpTriangle" />
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.P3" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.SnowFlake" />
+    <configuration name="P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.P4" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareThingy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.SquareThingy" />
+    <configuration name="P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.P5" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -455,19 +406,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.SerpTriangle" />
-      <item itemvalue="Application.SnowFlake" />
-      <item itemvalue="Application.SquareThingy" />
-      <item itemvalue="Application.Circles2" />
-      <item itemvalue="Application.Circles" />
+      <item itemvalue="Application.P3" />
+      <item itemvalue="Application.P4" />
+      <item itemvalue="Application.P5" />
+      <item itemvalue="Application.P2" />
+      <item itemvalue="Application.MazeSearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Circles" />
-        <item itemvalue="Application.Circles2" />
-        <item itemvalue="Application.SnowFlake" />
-        <item itemvalue="Application.SerpTriangle" />
-        <item itemvalue="Application.SquareThingy" />
+        <item itemvalue="Application.MazeSearch" />
+        <item itemvalue="Application.P2" />
+        <item itemvalue="Application.P5" />
+        <item itemvalue="Application.P4" />
+        <item itemvalue="Application.P3" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545173914662</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/">
+      <created>1545278684625</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1545278684625</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -650,9 +608,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14524421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15231362" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" weight="0.32953104" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="FRC" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49873257" weight="0.3490566" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32944608" />
+      <window_info anchor="bottom" id="Problems" order="8" sideWeight="0.4992658" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49746513" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4948605" weight="0.32884097" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15295629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -681,7 +669,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -706,121 +694,10 @@
     <MESSAGE value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
     <MESSAGE value="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/" />
     <MESSAGE value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
+    <MESSAGE value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/" />
+    <option name="LAST_COMMIT_MESSAGE" value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Nicolet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/StudentAthlete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/JobTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/StudentFEARMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/WorkerTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Executive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/SalariedWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/HourlyWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit09/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -992,13 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/P3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1010,9 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,30 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/SquareThingy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/SnowFlake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/Circles2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1061,13 +904,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/Skyline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="474" column="7" lean-forward="true" selection-start-line="474" selection-start-column="7" selection-end-line="474" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SnowFlake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SquareThingy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Square2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit11/Circles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="136">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/FourSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/multiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#6393#6394#0" expanded="true" />
+            <element signature="e#6420#6421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>

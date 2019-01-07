@@ -3,7 +3,7 @@ package Unit11;
 import java.awt.*;
 import java.util.Scanner;
 
-public class SerpTriangle {
+public class SerpTriangle{
     public static void serpTriangle(Canvas c, int x1, int y1, int x2, int y2, int num){
         int x3 = x2 + (x2-x1);
         int y3 = y1;
