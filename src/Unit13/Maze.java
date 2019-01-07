@@ -1,5 +1,6 @@
 package Unit13;
 
+import java.awt.*;
 import java.util.Random;
 
 public class Maze {
@@ -119,11 +120,13 @@ public class Maze {
         }
     }
 
-    public boolean traverse (int row, int col){
+    public boolean traverse (int row, int col, Canvas c, int size){
         boolean done = false;
         if(valid(row, col)){
             grid[row][col] = TRIED;
-
+            c.setInkColor(Color.red);
+            c.drawFilledRectangle(col*size, row*size, size,size);
+            c.pause(100);
             if(row == grid.length-1 && col == grid[0].length-1)
                 done = true;
             else {
@@ -139,19 +142,23 @@ public class Maze {
                     int i = order[k];
                     if(!done){
                         if(i == 0){
-                          done = traverse(row+1, col);
+                          done = traverse(row+1, col,c,size);
                         } else if(i == 1){
-                            done = traverse(row, col+1);
+                            done = traverse(row, col+1,c,size);
                         } else if(i == 2){
-                            done = traverse(row-1, col);
+                            done = traverse(row-1, col,c,size);
                         } else if(i == 3){
-                            done = traverse(row, col-1);
+                            done = traverse(row, col-1,c,size);
                         }
                     }
                 }
             }
-            if(done)
+            if(done) {
                 grid[row][col] = PATH;
+                c.setInkColor(Color.blue);
+                c.drawFilledRectangle(col*size, row*size, size,size);
+                c.pause(100);
+            }
         }
         return done;
     }
