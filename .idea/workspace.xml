@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit11/FourSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/Square2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit11/multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/MazeSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit13/Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit13/TowerTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/SnowFlake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit13/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit13/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit13/MazeSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit13/MazeSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +24,14 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="52" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="7" />
-          <entry key="project.open.time.14" value="6" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="8" />
+          <entry key="project.open.time.14" value="8" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="3" />
@@ -58,7 +48,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -75,7 +65,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="294" />
+          <entry key="JAVA" value="302" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -92,8 +82,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="55616" />
-          <entry key="PLAIN_TEXT" value="5107" />
+          <entry key="JAVA" value="57937" />
+          <entry key="PLAIN_TEXT" value="5349" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -104,23 +94,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit13/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#6393#6394#0" expanded="true" />
-                <element signature="e#6420#6421#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit13/HanoiTower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit13/TowerTester.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -128,8 +124,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -196,8 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit10/WorkerTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Interface.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Parent.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Tester.java" />
         <option value="$PROJECT_DIR$/src/Unit10/classTester.java" />
@@ -246,7 +240,9 @@
         <option value="$PROJECT_DIR$/src/Unit13/Sentence.java" />
         <option value="$PROJECT_DIR$/src/Unit13/Canvas.java" />
         <option value="$PROJECT_DIR$/src/Unit13/Maze.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/TowerTester.java" />
         <option value="$PROJECT_DIR$/src/Unit13/MazeSearch.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/HanoiTower.java" />
       </list>
     </option>
   </component>
@@ -281,6 +277,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,20 +295,12 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Unit13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,13 +360,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit13.P3" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit13.P4" />
       <module name="APCS" />
@@ -386,6 +369,13 @@
     </configuration>
     <configuration name="P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit13.P5" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.TowerTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -406,19 +396,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.P3" />
       <item itemvalue="Application.P4" />
       <item itemvalue="Application.P5" />
       <item itemvalue="Application.P2" />
       <item itemvalue="Application.MazeSearch" />
+      <item itemvalue="Application.TowerTester" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MazeSearch" />
+        <item itemvalue="Application.TowerTester" />
         <item itemvalue="Application.P2" />
         <item itemvalue="Application.P5" />
         <item itemvalue="Application.P4" />
-        <item itemvalue="Application.P3" />
       </list>
     </recent_temporary>
   </component>
@@ -594,7 +584,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545278684625</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;all of the given fractals have been completed and compiled into one main program, titled multiple. &#10;As well, I made a program that generates a maze recursively and then solves it too.&#10;fav program: Maze.&#10;all the best,&#10;MJ&#10;:/">
+      <created>1546875942719</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546875942719</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update to Maze&#10;all the best, &#10;MJ">
+      <created>1546876453003</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1546876453003</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -609,7 +613,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15231362" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16195373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -695,23 +699,11 @@
     <MESSAGE value="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/" />
     <MESSAGE value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
     <MESSAGE value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/" />
-    <option name="LAST_COMMIT_MESSAGE" value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/" />
+    <MESSAGE value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;all of the given fractals have been completed and compiled into one main program, titled multiple. &#10;As well, I made a program that generates a maze recursively and then solves it too.&#10;fav program: Maze.&#10;all the best,&#10;MJ&#10;:/" />
+    <MESSAGE value="Update to Maze&#10;all the best, &#10;MJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to Maze&#10;all the best, &#10;MJ" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit08/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit10/classTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -971,17 +963,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit13.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unit11/multiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit13/P1.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit13/P3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -992,17 +1008,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/multiple.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit13/Sentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="136">
+          <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1013,40 +1022,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/Sentence.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit13/TowerTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit13/HanoiTower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="146">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit13/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#6393#6394#0" expanded="true" />
-            <element signature="e#6420#6421#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>

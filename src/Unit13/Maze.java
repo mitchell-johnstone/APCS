@@ -9,7 +9,7 @@ public class Maze {
     private int l = 13;
     private int h = 8;
     int [][] grid;
-    public Maze(int l, int h){
+    public Maze(int l, int h, Canvas c){
         this.l = l;
         this.h = h;
         grid = new int[h *2-1][l*2-1];
@@ -30,13 +30,13 @@ public class Maze {
         }
         grid[0][0]=1;
         Random r = new Random();
-        make(0,0,r.nextInt(2)==0?0:4);
+        make(0,0,r.nextInt(2)==0?0:4, c, 50);
     }
-    public Maze(){
-        this(13,8);
-    }
+//    public Maze(){
+//        this(13,8);
+//    }
 
-    public void make(int row, int col, int dir){
+    public void make(int row, int col, int dir, Canvas can, int size){
 //        System.out.println(row);
 //        System.out.println(col);
         boolean c = false;
@@ -81,7 +81,7 @@ public class Maze {
         }
         if(!c) {
             Random r = new Random();
-            int[] order = {0, 1, 2, 3};
+            int[] order = {1, 3, 2, 0};
             for (int i = 3; i > 0; i--) {
                 int t = r.nextInt(i);
                 int tmp = order[i];
@@ -90,32 +90,40 @@ public class Maze {
             }
             for (int k = 0; k < order.length; k++) {
                 int i = order[k];
-                if (i == dir) {
-                } else if (i == 0) {
+                if (i == 0) {
                     if (valid2(row + 2, col) && grid[row + 2][col] == 2) {
                         grid[row + 1][col] = 1;
+                        can.drawFilledRectangle((col)*size, (row+1)*size,size,size);
                         grid[row + 2][col] = 1;
-                        this.make(row + 2, col, 2);
+                        can.drawFilledRectangle((col)*size, (row+2)*size,size,size);
+                        this.make(row + 2, col, 0, can, size);
                     }
                 } else if (i == 1) {
                     if (valid2(row, col + 2) && grid[row][col + 2] == 2) {
                         grid[row][col + 1] = 1;
+                        can.drawFilledRectangle((col+1)*size, (row)*size,size,size);
                         grid[row][col + 2] = 1;
-                        this.make(row, col + 2, 3);
+                        can.drawFilledRectangle((col+2)*size, (row)*size,size,size);
+                        this.make(row, col + 2, 1, can, size);
                     }
                 } else if (i == 2) {
                     if (valid2(row - 2, col) && grid[row - 2][col] == 2) {
+                        can.drawFilledRectangle((col)*size, (row-1)*size,size,size);
                         grid[row - 1][col] = 1;
+                        can.drawFilledRectangle((col)*size, (row-2)*size,size,size);
                         grid[row - 2][col] = 1;
-                        this.make(row - 2, col, 0);
+                        this.make(row - 2, col, 2,can,size);
                     }
                 } else if (i == 3) {
                     if (valid2(row, col - 2) && grid[row][col - 2] == 2) {
+                        can.drawFilledRectangle((col-1)*size, (row)*size,size,size);
                         grid[row][col - 1] = 1;
+                        can.drawFilledRectangle((col-2)*size, (row)*size,size,size);
                         grid[row][col - 2] = 1;
-                        this.make(row, col - 2, 2);
+                        this.make(row, col - 2, 3,can,size);
                     }
                 }
+                can.pause(25);
             }
         }
     }
@@ -131,7 +139,7 @@ public class Maze {
                 done = true;
             else {
                 Random r = new Random();
-                int[] order = {0,1,2,3};
+                int[] order = {1,3,2,0};
                 for (int i = 3; i >0 ; i--) {
                     int t = r.nextInt(i);
                     int tmp = order[i];
