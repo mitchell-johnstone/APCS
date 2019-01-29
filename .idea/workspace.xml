@@ -4,10 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit14/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit14/Review2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit14/SelectionSort.java" afterDir="false" />
+    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="Update to Maze&#10;all the best, &#10;MJ">
+      <change afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/ArrayListSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/ArraySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/Commercial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit14/ArrayListSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit14/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit14/Commercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit14/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,17 +28,18 @@
     <session id="115957728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="61" />
+          <entry key="project.closed" value="64" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="4" />
-          <entry key="project.open.time.12" value="7" />
+          <entry key="project.open.time.12" value="8" />
           <entry key="project.open.time.13" value="8" />
-          <entry key="project.open.time.14" value="8" />
+          <entry key="project.open.time.14" value="9" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="3" />
@@ -47,7 +53,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="62" />
+          <entry key="project.opened" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,7 +70,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="306" />
+          <entry key="JAVA" value="313" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -81,7 +87,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="59565" />
+          <entry key="JAVA" value="61100" />
           <entry key="PLAIN_TEXT" value="5349" />
           <entry key="XML" value="1" />
         </counts>
@@ -91,31 +97,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit14/Review2.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit14/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Unit14/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit14/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit14/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +162,7 @@
       <replace>&quot;</replace>
       <replace>private</replace>
       <replace>c = true</replace>
+      <replace>&lt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Admin\Documents\Coding\APCS\src</dir>
@@ -182,10 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit10/General.java" />
-        <option value="$PROJECT_DIR$/src/Unit09/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/Unit10/Class.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Rhombus.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/Unit10/Circle.java" />
@@ -233,6 +228,10 @@
         <option value="$PROJECT_DIR$/src/Unit14/Review2.java" />
         <option value="$PROJECT_DIR$/src/Unit14/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Unit14/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/Unit14/ArraySort.java" />
+        <option value="$PROJECT_DIR$/src/Unit14/ArrayListSort.java" />
+        <option value="$PROJECT_DIR$/src/Unit14/Commercial.java" />
+        <option value="$PROJECT_DIR$/src/Unit14/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -294,8 +293,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,9 +332,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.BubbleSort" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="ArrayListSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit14.ArrayListSort" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit14.ArraySort" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -348,15 +354,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit13.MazeSearch" />
+    <configuration name="Commercial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit14.Commercial" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Review2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.Review2" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit14.MergeSort" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -364,13 +370,6 @@
     </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit14.SelectionSort" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TowerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit13.TowerTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -391,19 +390,19 @@
     <list>
       <item itemvalue="Application.Tracer" />
       <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.MazeSearch" />
-      <item itemvalue="Application.TowerTester" />
-      <item itemvalue="Application.Review2" />
-      <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.ArraySort" />
+      <item itemvalue="Application.ArrayListSort" />
+      <item itemvalue="Application.Commercial" />
+      <item itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Commercial" />
+        <item itemvalue="Application.ArrayListSort" />
+        <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Review2" />
-        <item itemvalue="Application.MazeSearch" />
-        <item itemvalue="Application.TowerTester" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +607,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16966581" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17544988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -699,41 +698,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update to Maze&#10;all the best, &#10;MJ" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Rhombus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/ShapeTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit10/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit10/Canvas.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1023,8 +987,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/Review2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="986">
           <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/ArraySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/ArrayListSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/Commercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1033,15 +1035,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit14/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="374">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
