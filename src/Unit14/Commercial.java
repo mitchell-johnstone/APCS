@@ -66,6 +66,15 @@ public class Commercial implements Comparable{
         for (int i = 0; i < commercials.length; i++) {
             System.out.println(commercials[i] + " , ");
         }
+
+        int starting = 0;
+        int ending = commercials.length-1;
+        while(starting+1<ending){
+            starting++;
+            ending--;
+        }
+        double median = (commercials[starting].getSales()+commercials[ending].getSales())/2.0;
+        System.out.println("\nMedian Value of Sales is: " + median);
 //        System.out.println(commercials);
     }
 }
