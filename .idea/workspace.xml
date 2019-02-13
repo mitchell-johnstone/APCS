@@ -1,253 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Graphics/PerlinNoiseTest.java" line="7" />
-    <bookmark url="file://$PROJECT_DIR$/src/Unit14/MySort.java" line="9" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="Update to Maze&#10;all the best, &#10;MJ">
-      <change afterPath="$PROJECT_DIR$/src/Unit14/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit14/SearchComparison.java" afterDir="false" />
+    <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/DuplicateRemoval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/DuplicateRemoval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="115957728">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="69" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="4" />
-          <entry key="project.open.time.12" value="10" />
-          <entry key="project.open.time.13" value="8" />
-          <entry key="project.open.time.14" value="10" />
-          <entry key="project.open.time.15" value="4" />
-          <entry key="project.open.time.16" value="5" />
-          <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.51" value="1" />
-          <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="71" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="CompareTo" value="1" />
-          <entry key="class" value="5" />
-          <entry key="groovy" value="1" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="263" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="347" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scratch" value="1" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="CompareTo" value="50" />
-          <entry key="iml" value="4" />
-          <entry key="java" value="46241" />
-          <entry key="txt" value="4797" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="65039" />
-          <entry key="PLAIN_TEXT" value="5349" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>++</find>
-      <find>--</find>
-      <find>-=2</find>
-      <find>float</find>
-      <find>'</find>
-      <find>drawfilledp</find>
-      <find>yValuesConvex</find>
-      <find>yValuesConcave</find>
-      <find>xValuesConcave</find>
-      <find>clicked</find>
-      <find>drawfill</find>
-      <find>setink</find>
-      <find>Stars</find>
-      <find>playNumber++</find>
-      <find>public</find>
-      <find>play</find>
-      <find>playNumber</find>
-      <find>gameT</find>
-      <find>barcode</find>
-      <find>return</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>-=2</replace>
-      <replace>-=3</replace>
-      <replace>double</replace>
-      <replace>yValuesConcave</replace>
-      <replace>yValuesConvex</replace>
-      <replace>xValuesConvex</replace>
-      <replace>STARS</replace>
-      <replace>&quot;</replace>
-      <replace>private</replace>
-      <replace>c = true</replace>
-      <replace>&lt;</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\Admin\Documents\Coding\APCS\src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="mitchell-johnstone &lt;mitch2579@gmail.com&gt;" />
-      </list>
-    </option>
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit11/Circles.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/FourSquare.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/SnowFlake.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/Square2.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/multiple.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/P1.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/P3.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/P4.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/P5.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/P2.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/Sentence.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/Canvas.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/Maze.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/TowerTester.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/MazeSearch.java" />
-        <option value="$PROJECT_DIR$/src/Unit13/HanoiTower.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/Review2.java" />
         <option value="$PROJECT_DIR$/src/Unit14/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/ArraySort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/ArrayListSort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/MySort.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/DoubleBubble.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/Commercial.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/mergesort/MergeSorter.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/mergesort/MergeSortTimer.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/mergesort/MergeSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/mergesort/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/mergesort/StopWatch.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/binsearch/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/binsearch/BinarySearchDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/binsearch/BinarySearcher.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/insertionsort/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/insertionsort/InsertionSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/insertionsort/InsertionSorter.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/linsearch/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/linsearch/LinearSearchDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/linsearch/LinearSearcher.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/quicksort/QuickSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/quicksort/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/quicksort/QuickSorter.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/selsort/ArrayUtil.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/selsort/SelectionSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/selsort/SelectionSorter.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/selsort/SelectionSortTimer.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/selsort/StopWatch.java" />
-        <option value="$PROJECT_DIR$/src/Unit14/SearchComparison.java" />
         <option value="$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="814" />
-    <option name="height" value="867" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="916" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>EqualsWhichDoesntCheckParameterClass</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -280,27 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Admin/Documents/Coding/APCS/src/Unit10/SalariedWorker.java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Measurable.java" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Unit14" />
-      <recent name="Unit13" />
-      <recent name="Unit11" />
-      <recent name="Unit10" />
-      <recent name="Unit09" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\Documents\Coding\APCS\tmp" />
-      <recent name="C:\Users\Admin\Documents\Coding\APCS" />
-      <recent name="C:\Users\Admin\Documents\Coding\APCS\src\src" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550081712444" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -315,23 +90,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.DuplicateRemoval">
-    <configuration name="Chair" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Chair.ChairTester" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit14.BubbleSort" />
       <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Commercial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.Commercial" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleBubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.DoubleBubble" />
-      <module name="APCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -339,52 +106,34 @@
     <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit14.DuplicateRemoval" />
       <module name="APCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.MySort" />
+    <configuration name="TowerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.TowerTester" />
       <module name="APCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit14.SearchComparison" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tracer" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphics.Tracer" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Tracer" />
-      <item itemvalue="Application.Chair" />
-      <item itemvalue="Application.Commercial" />
-      <item itemvalue="Application.MySort" />
-      <item itemvalue="Application.DoubleBubble" />
-      <item itemvalue="Application.SearchComparison" />
-      <item itemvalue="Application.DuplicateRemoval" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DuplicateRemoval" />
-        <item itemvalue="Application.SearchComparison" />
-        <item itemvalue="Application.Commercial" />
-        <item itemvalue="Application.DoubleBubble" />
-        <item itemvalue="Application.MySort" />
+        <item itemvalue="Application.TowerTester" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -393,722 +142,96 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c917cb4-4294-4839-8ad6-ff274065c1ba" name="Default Changelist" comment="" />
-      <created>1539749511348</created>
+      <changelist id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="" />
+      <created>1547666066669</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539749511348</updated>
+      <updated>1547666066669</updated>
     </task>
-    <task id="LOCAL-00001" summary="This was an update to the tracer program&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Mitchell.">
-      <created>1539995624170</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1539995624170</updated>
-    </task>
-    <task id="LOCAL-00002" summary="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
-      <created>1540181015209</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1540181015209</updated>
-    </task>
-    <task id="LOCAL-00003" summary="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell.">
-      <created>1540181037675</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540181037675</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.">
-      <created>1540257316303</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1540257316303</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.&#10;also, class programs for arrays">
-      <created>1540345463263</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1540345463263</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P">
-      <created>1540413310152</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1540413310152</updated>
-    </task>
-    <task id="LOCAL-00007" summary="More Programming classes for class&#10;and update for some graphics">
-      <created>1540492831716</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1540492831716</updated>
-    </task>
-    <task id="LOCAL-00008" summary="More Programming classes for class&#10;and update for some graphics">
-      <created>1540505874670</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1540505874670</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Tracer, tictactoe game&#10;In the tracer class, lily gave me the idea to erase the line. My dad took it one step further. when clicked, the line has a sparkle as it is erased. Originally, in testing, the line was white, but changed to rainbow.&#10;As for the tic tac toe game, it is just that. When the mouse hovers over it, it shows a temporary symbol. On click, it registers the move, changes player, checks if someone wins if if cat's game, and then continues.&#10;Fun stuff. &#10;Yay! &#10;Sincerely,&#10;:/">
-      <created>1540706392463</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1540706392463</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Update to canvas and Skyline&#10;I tried making the stars move in the skyline class, but it sucked. too slow.&#10;As for canvas, I added a method to get the color at a certain point. may be useful.&#10;sincerely&#10;:/">
-      <created>1540838438065</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1540838438065</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Arrays and TicTacToe&#10;For class, we had to write programs involving arrays and arraylists&#10;Many involve looping. Found we can't switch refences of variables in methods.&#10;Also edited TicTacToe. It now can play against a computer. Not perfect, but pretty good. As well, more modular, so it looks prettier. Much less # of lines.&#10;that's all for now.&#10;-MJ&#10;:/">
-      <created>1541131839339</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1541131839339</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Major TicTacToe update&#10;YAY! TTT game can now be fully automatic&#10;I made the computer check situations better&#10;as well, more updates to random files w/ warnings. &#10;also, partner program is a test for school work.&#10;sincerely,&#10;:/">
-      <created>1541192094191</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1541192094191</updated>
-    </task>
-    <task id="LOCAL-00013" summary="more class projects, improved TTT&#10;a lot of the update includes updates to files that were required for class. For example, the PartnerProgram repository is actually for a partner test, where I coded one section and someone else coded the other.&#10;In TTT, the computer has been tested a lot and verified. As well, it now loops back to the menu if not Computer vs Computer.&#10;well, that's all.&#10;adios&#10;farewell&#10;-MJ&#10;:/">
-      <created>1541569703744</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1541569703744</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Lots of code for class&#10;unit 08 is part for AP Comp Sci&#10;Coin, purse, and pursetester are all for a purse project&#10;rational class is for fractions&#10;shapes were all as a demonstration for future inheritance&#10;otherwise, updates to make things work better.&#10;(Attempt at keyboard, not successful)&#10;sincerely,&#10;MJ&#10;:/">
-      <created>1542149689927</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1542149689927</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Stars move and digits write&#10;For the skyline class, I decided to implement a star class that would control each star and set it to be a new thread in the processor.&#10;This allowed for the stars to move seperate to the timing of the main program and more independent.&#10;As well, for the digit and mail files, those were for APCS, where you converted a zip code into a series of | and :. &#10;sincerely,&#10;MJ&#10;:/">
-      <created>1542411335410</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1542411335410</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Lots of code for class">
-      <created>1543347237755</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1543347237755</updated>
-    </task>
-    <task id="LOCAL-00017" summary="files from Due&#10;this commit has a lot of files from my teacher&#10;this unit involves interfaces. kinda cool. idk.">
-      <created>1543347483484</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1543347483484</updated>
-    </task>
-    <task id="LOCAL-00018" summary="working with interfaces, connect 4&#10;interface testing, including a dataset that computes max and mins of different classes.&#10;connect 4 is from last year, but still one of my most prized possessions. so good. working amazing.&#10;have fun with it.&#10;MJ&#10;:/">
-      <created>1543529159818</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1543529159818</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/">
-      <created>1544122979626</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1544122979626</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/">
-      <created>1544639294415</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1544639294415</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/">
-      <created>1545093644635</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1545093644635</updated>
-    </task>
-    <task id="LOCAL-00022" summary="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/">
-      <created>1545173914662</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1545173914662</updated>
-    </task>
-    <task id="LOCAL-00023" summary="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/">
-      <created>1545278684625</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1545278684625</updated>
-    </task>
-    <task id="LOCAL-00024" summary="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;all of the given fractals have been completed and compiled into one main program, titled multiple. &#10;As well, I made a program that generates a maze recursively and then solves it too.&#10;fav program: Maze.&#10;all the best,&#10;MJ&#10;:/">
-      <created>1546875942719</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1546875942719</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Update to Maze&#10;all the best, &#10;MJ">
-      <created>1546876453003</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1546876453003</updated>
-    </task>
-    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="2">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="0" y="23" width="1260" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18830334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Learn" order="4" weight="0.32953104" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="FRC" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49873257" visible="true" weight="0.3490566" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32944608" />
-      <window_info anchor="bottom" id="Problems" order="8" sideWeight="0.4992658" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49746513" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4948605" weight="0.32884097" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32884097" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1699029" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3288835" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15295629" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Learn" order="4" weight="0.32953104" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="FRC" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49873257" visible="true" weight="0.3490566" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32944608" />
-      <window_info anchor="bottom" id="Problems" order="8" sideWeight="0.4992658" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49746513" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50126743" side_tool="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4948605" weight="0.32884097" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32884097" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="This was an update to the tracer program&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Mitchell." />
-    <MESSAGE value="This was an update to the tracer program &amp;&amp; first attempt at Perlin&#10;previously, it just followed the mouse and drew a line between each new point.&#10;Now, the line is a rainbow. &#10;Perlin noise test, but failed. New code soon.&#10;Mitchell." />
-    <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress." />
-    <MESSAGE value="new attempt at Perlin &amp; new worm program&#10;Worm follows the mouse, draws history too.&#10;perlin still work in progress.&#10;also, class programs for arrays" />
-    <MESSAGE value="Skyline &amp; arrays&#10;For class, we have been reviewing arrays, and the teacher gave us practice programs. Those are located in the Array folder.&#10;As for skyline, previously there was a set width to the buildings. I decided I wanted to change to be more dynamic, so I set the building to change and for the windows to adapt to the sizes.&#10;also, there's now stars in the sky.&#10;:)&#10;:/&#10;:P" />
-    <MESSAGE value="More Programming classes for class&#10;and update for some graphics" />
-    <MESSAGE value="Tracer, tictactoe game&#10;In the tracer class, lily gave me the idea to erase the line. My dad took it one step further. when clicked, the line has a sparkle as it is erased. Originally, in testing, the line was white, but changed to rainbow.&#10;As for the tic tac toe game, it is just that. When the mouse hovers over it, it shows a temporary symbol. On click, it registers the move, changes player, checks if someone wins if if cat's game, and then continues.&#10;Fun stuff. &#10;Yay! &#10;Sincerely,&#10;:/" />
-    <MESSAGE value="Update to canvas and Skyline&#10;I tried making the stars move in the skyline class, but it sucked. too slow.&#10;As for canvas, I added a method to get the color at a certain point. may be useful.&#10;sincerely&#10;:/" />
-    <MESSAGE value="Arrays and TicTacToe&#10;For class, we had to write programs involving arrays and arraylists&#10;Many involve looping. Found we can't switch refences of variables in methods.&#10;Also edited TicTacToe. It now can play against a computer. Not perfect, but pretty good. As well, more modular, so it looks prettier. Much less # of lines.&#10;that's all for now.&#10;-MJ&#10;:/" />
-    <MESSAGE value="Major TicTacToe update&#10;YAY! TTT game can now be fully automatic&#10;I made the computer check situations better&#10;as well, more updates to random files w/ warnings. &#10;also, partner program is a test for school work.&#10;sincerely,&#10;:/" />
-    <MESSAGE value="more class projects, improved TTT&#10;a lot of the update includes updates to files that were required for class. For example, the PartnerProgram repository is actually for a partner test, where I coded one section and someone else coded the other.&#10;In TTT, the computer has been tested a lot and verified. As well, it now loops back to the menu if not Computer vs Computer.&#10;well, that's all.&#10;adios&#10;farewell&#10;-MJ&#10;:/" />
-    <MESSAGE value="Lots of code for class&#10;unit 08 is part for AP Comp Sci&#10;Coin, purse, and pursetester are all for a purse project&#10;rational class is for fractions&#10;shapes were all as a demonstration for future inheritance&#10;otherwise, updates to make things work better.&#10;(Attempt at keyboard, not successful)&#10;sincerely,&#10;MJ&#10;:/" />
-    <MESSAGE value="Stars move and digits write&#10;For the skyline class, I decided to implement a star class that would control each star and set it to be a new thread in the processor.&#10;This allowed for the stars to move seperate to the timing of the main program and more independent.&#10;As well, for the digit and mail files, those were for APCS, where you converted a zip code into a series of | and :. &#10;sincerely,&#10;MJ&#10;:/" />
-    <MESSAGE value="Lots of code for class" />
-    <MESSAGE value="files from Due&#10;this commit has a lot of files from my teacher&#10;this unit involves interfaces. kinda cool. idk." />
-    <MESSAGE value="working with interfaces, connect 4&#10;interface testing, including a dataset that computes max and mins of different classes.&#10;connect 4 is from last year, but still one of my most prized possessions. so good. working amazing.&#10;have fun with it.&#10;MJ&#10;:/" />
-    <MESSAGE value="Inheritence&#10;This unit we focused on inheritence, including parent and child classes, extending classes, and whatnot. A bunch of examples for this too. Soon will be implementing some abstract classes. &#10;until next time.&#10;MJ&#10;:/" />
-    <MESSAGE value="Fun&#10;More inheritence files, as well as some fun ones. &#10;This includes class CarLot that houses cars, and a Clock file made for extra credit, that works with the current time.&#10;Have a great day.&#10;MJ&#10;:/" />
-    <MESSAGE value="recursion&#10;This unit focused on recursion, and so we did some tests.&#10;This includes some practice programs,such as factorial and Fibonacci.&#10;I improved on Factorial by using an arraylist to hold my digits and using that as my value to get larger numbers.&#10;That should be all. &#10;Have a great day.&#10;MJ&#10;:/" />
-    <MESSAGE value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;I'm not done yet, as there are some more fractals to tackle, but the rest should be easy&#10;fav program: snowflake.&#10;all the best,&#10;MJ&#10;:/" />
-    <MESSAGE value="more recursion&#10;Recusion is when a method calls itself. &#10;Since I completed the test programs, I was given some graphic fractals to make.&#10;That is what I have done. &#10;all of the given fractals have been completed and compiled into one main program, titled multiple. &#10;As well, I made a program that generates a maze recursively and then solves it too.&#10;fav program: Maze.&#10;all the best,&#10;MJ&#10;:/" />
-    <MESSAGE value="Update to Maze&#10;all the best, &#10;MJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to Maze&#10;all the best, &#10;MJ" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit13.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unit11/multiple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit11/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/Sentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/P5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/Maze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/HanoiTower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.project" />
     <entry file="file://$PROJECT_DIR$/src/Unit13/TowerTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Review1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Review2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/util/ComparableTimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="319" selection-start-line="319" selection-end-line="319" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/ArraySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/MySort.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit13/HanoiTower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="392">
+          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/DoubleBubble.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit14/Review2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        <state relative-caret-position="372">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/Review1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Commercial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/ArrayListSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/mergesort/StopWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/mergesort/MergeSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/mergesort/MergeSortTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/mergesort/MergeSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/mergesort/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/binsearch/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/binsearch/BinarySearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/binsearch/BinarySearcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/insertionsort/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/insertionsort/InsertionSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/insertionsort/InsertionSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/linsearch/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/linsearch/LinearSearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/linsearch/LinearSearcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/quicksort/QuickSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/quicksort/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/quicksort/QuickSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/ArrayUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/SelectionSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/SelectionSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/SelectionSortTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/selsort/StopWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/SearchComparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>APCS</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>opencv-3.4.3-android-sdk</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
