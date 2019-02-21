@@ -1,0 +1,49 @@
+import java.util.*;
+import java.awt.*;
+
+public class GuessTime{
+	public static void main(String[] args){
+		Canvas c = new Canvas("Clock",800,800);
+		c.setVisible();
+		int hour;
+		int minute;
+		Random r = new Random();
+		int hg;
+		int mg;
+		//full hours
+		correct = 0;
+		clockInit(c);
+		drawClock(c,3,0);
+		while(correct<3){
+
+		}
+	}
+
+	public static void clockInit(Canvas c){
+		c.erase();
+		c.setInkColor(Color.grey);
+		c.drawOval(0,0,800,800);
+		for(int i = 0; i<60; i++){
+			int rad = 375;
+			if(i%5==0) rad = 350;
+			int x1 = (int) 400+rad*Math.cos(Math.toRadians(i*6));
+			int y1 =  (int)400 + rad * Math.sin(Math.toRadians(i*6));
+			rad = 400;
+			int x2 =  (int)400+rad*Math.cos(Math.toRadians(i*6));
+			int y2 =  (int)400 + rad * Math.sin(Math.toRadians(i*6));
+			c.drawLine(x1,y1,x2,y2);
+		}
+	}
+
+	public static void drawClock(Canvas c, int hour, int min){
+		c.setInkColor(Color.grey);
+		int x1 = 400;
+		int y1 = 400;
+		int x2 =   (int)400+Math.cos(Math.toRadians(30*hour + .5*min));
+		int y2 =   (int)400+Math.sin(Math.toRadians(30*hour + .5*min));	
+		c.drawLine(x1,y1,x2,y2);
+		x2 = (int)400+Math.cos(Math.toRadians(6*min));
+		y2 = (int)400+Math.cos(Math.toRadians(6*min));
+		c.drawLine(x1,y1,x2,y2);
+	}
+}
