@@ -1,6 +1,6 @@
 package Unit14;
 
-public Team {
+public class Team {
 	private String name;
 	private int seed;
 
@@ -13,5 +13,13 @@ public Team {
 	}
 	public int getSeed(){
 		return seed;
+	}
+
+	@Override
+	public String toString() {
+		return "Team{" +
+				"name='" + name + '\'' +
+				", seed=" + seed +
+				'}';
 	}
 }
