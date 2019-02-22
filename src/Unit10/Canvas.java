@@ -600,7 +600,7 @@ public class Canvas
 
     //subclass for listening to the keyboard
     private class KeyListener implements java.awt.event.KeyListener{
-        public void keyPressed(KeyEvent e){currentKey = e.getKeyText(e.getKeyCode());}
+        public void keyPressed(KeyEvent e){currentKey = KeyEvent.getKeyText(e.getKeyCode());}
         public void keyReleased(KeyEvent e){}
         public void keyTyped(KeyEvent e){}
     }

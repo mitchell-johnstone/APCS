@@ -16,7 +16,7 @@ public class ImprovedNoiseTest {
                 //gets a random distance away from x and y
                 double xoff = x + r.nextDouble();
                 double yoff = y + r.nextDouble();
-                double f = 255*(IN.noise(xoff, yoff,0)+1)/2;
+                double f = 255*(ImprovedNoise.noise(xoff, yoff,0)+1)/2;
                 Color color = new Color((int)f, (int)f, (int)f);
                 c.setInkColor(color);
                 c.drawFilledRectangle(x*scale,y*scale,scale,scale);

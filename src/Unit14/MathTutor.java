@@ -87,8 +87,7 @@ public class MathTutor {
 	    System.out.print(firstNum + " + " + secondNum + " = ? ");
 	    int guess = in.nextInt();
 	    System.out.println();
-	    if(guess == firstNum + secondNum) return true;
-        return false;
+        return guess == firstNum + secondNum;
     }
     public static boolean Sub(){
 	    int firstNum = r.nextInt(10);
@@ -96,8 +95,7 @@ public class MathTutor {
 	    System.out.print( firstNum + " - " + secondNum + " = ? ");
 	    int guess = in.nextInt();
 	    System.out.println();
-	    if(guess == firstNum-secondNum) return true;
-        return false;
+        return guess == firstNum - secondNum;
     }
     public static boolean Mul(){
         int firstNum = r.nextInt(10);
@@ -105,8 +103,7 @@ public class MathTutor {
 	    System.out.print(firstNum + " * " + secondNum + " = ? ");
 	    int guess = in.nextInt();
 	    System.out.println();
-	    if(guess == firstNum * secondNum) return true;
-        return false;
+        return guess == firstNum * secondNum;
     }
     public static boolean Div(){
         int firstNum = r.nextInt(10);
@@ -117,8 +114,7 @@ public class MathTutor {
 	    System.out.print(firstNum + " / " + secondNum + " = ? ");
 	    int guess = in.nextInt();
 	    System.out.println();
-	    if(guess == firstNum / secondNum) return true;
-        return false;
+        return guess == firstNum / secondNum;
     }
 
 }
