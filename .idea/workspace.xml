@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Graphics/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphics/ImprovedNoiseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit09/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit09/Speaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit10/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit10/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit11/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit11/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit13/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit13/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit14/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit14/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit14/MathTutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit14/MathTutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/Seuss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit11/TextIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/NCAABracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit14/NCAABracket.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Unit14/NCAABracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit14/NCAABracket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit14/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit14/Team.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,30 +21,43 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="14" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2453" />
+          <entry key="JAVA" value="2537" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Unit14/NCAABracket.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/TextIO.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="149" column="34" lean-forward="true" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,30 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit14/GuessTime.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/Seuss.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unit14/Team.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -119,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/Unit14/TeamNames.txt" />
         <option value="$PROJECT_DIR$/src/Unit14/Team.java" />
         <option value="$PROJECT_DIR$/src/Unit14/NCAABracket.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/TextIO.java" />
       </list>
     </option>
   </component>
@@ -150,7 +139,7 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit13" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
@@ -181,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NCAABracket">
+  <component name="RunManager" selected="Application.TextIO">
     <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit14.DuplicateRemoval" />
       <module name="APCS" />
@@ -216,33 +205,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit13.TowerTester" />
+    <configuration name="TextIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.TextIO" />
       <module name="APCS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.DuplicateRemoval" />
-      <item itemvalue="Application.TowerTester" />
       <item itemvalue="Application.MathTutor" />
       <item itemvalue="Application.GuessTime" />
       <item itemvalue="Application.NCAABracket" />
+      <item itemvalue="Application.TextIO" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextIO" />
         <item itemvalue="Application.NCAABracket" />
         <item itemvalue="Application.GuessTime" />
         <item itemvalue="Application.MathTutor" />
         <item itemvalue="Application.DuplicateRemoval" />
-        <item itemvalue="Application.TowerTester" />
       </list>
     </recent_temporary>
   </component>
@@ -290,8 +273,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21401028" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21658097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +285,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35040432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32614556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,21 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/GuessTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -458,10 +427,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit14/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/Seuss.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/NCAABracket.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit11/TextIO.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="149" column="34" lean-forward="true" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
