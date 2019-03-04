@@ -14,6 +14,11 @@ public class Gibberish {
         System.out.print("What file to turn into gibberish? ");
         String name = in.next();
 
+        Gib(name);
+    }
+
+    public static void Gib(String name){
+        Scanner in = new Scanner(System.in);
         //make the file for gibberish
         File f = new File("src/Unit11/" + name + ".txt");
 
