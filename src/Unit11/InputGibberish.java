@@ -1,8 +1,8 @@
 package Unit11;
 
-import java.io.FileWriter;
+import java.io.File;
 import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.PrintStream;
 import java.util.Scanner;
 
 public class InputGibberish {
@@ -14,17 +14,23 @@ public class InputGibberish {
 
         try {
             //way to write to a file
-            FileWriter fileWriter = new FileWriter("src/Unit11/out.txt");
-            PrintWriter printWriter = new PrintWriter(fileWriter);
+            File f = new File("src/Unit11/out.txt");
+            PrintStream p =new PrintStream(f);
+
             //Get random phrases
             System.out.println("Enter \"out\" to stop input.");
-            while (!check.equalsIgnoreCase("out")) {
+            do {
+                p.print(check + "\n");
                 check = in.nextLine();
-                printWriter.print(check + "\n");
-            }
+            }while (!check.equalsIgnoreCase("out"));
+
+            p.close();
+
+            //call Gibberish method to code file
             Gibberish.Gib("out");
         } catch(IOException io){
             io.printStackTrace();
+            System.out.println("Sorry, something went wrong with the file handling");
         }
 
     }
