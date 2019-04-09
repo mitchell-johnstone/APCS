@@ -3,6 +3,218 @@
   <component name="ChangeListManager">
     <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/10spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/2spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/3spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/4spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/5spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/6spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/7spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/8spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9clubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9clubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9diamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9diamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9hearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9heartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9spades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/9spadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/aceclubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/aceclubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/acediamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/acediamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/acehearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/aceheartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/acespades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/acespadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackclubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackclubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackdiamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackdiamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackhearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackheartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackspades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/jackspadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingclubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingclubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingdiamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingdiamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kinghearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingheartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingspades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/kingspadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenclubs.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenclubsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queendiamonds.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queendiamondsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenhearts.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenheartsS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenspades.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Elevens/cards____tryagain/queenspadesS.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/CardGameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/CardGameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/ElevensBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/ElevensBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/10spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/10spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/2spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/2spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/3spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/3spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/4spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/4spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/5spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/5spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/6spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/6spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/7spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/7spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/8spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/8spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9clubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9clubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9clubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9clubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9diamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9diamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9diamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9diamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9hearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9hearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9heartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9heartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9spades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9spades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/9spadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/9spadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/aceclubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/aceclubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/aceclubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/aceclubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/acediamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/acediamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/acediamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/acediamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/acehearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/acehearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/aceheartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/aceheartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/acespades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/acespades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/acespadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/acespadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackclubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackclubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackclubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackclubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackdiamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackdiamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackdiamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackdiamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackhearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackhearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackheartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackheartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackspades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackspades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/jackspadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/jackspadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingclubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingclubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingclubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingclubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingdiamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingdiamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingdiamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingdiamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kinghearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kinghearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingheartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingheartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingspades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingspades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/kingspadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/kingspadesS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenclubs.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenclubs.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenclubsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenclubsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queendiamonds.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queendiamonds.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queendiamondsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queendiamondsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenhearts.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenhearts.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenheartsS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenheartsS.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenspades.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenspades.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevens/cards____tryagain/queenspadesS.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevens/cards/queenspadesS.GIF" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,121 +254,62 @@
     <session id="892606200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="124" />
+          <entry key="JAVA" value="2759" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="Image" value="10" />
+          <entry key="JAVA" value="36" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/DeckTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensBoard.java">
+        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="251">
+              <caret line="306" column="3" lean-forward="true" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/Board.java">
+        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
-              <folding>
-                <element signature="e#2965#2974#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="251">
+              <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/Shuffler.java">
+        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/SimplePicture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="2635">
+              <caret line="169" column="29" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensGUIRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="119" column="54" lean-forward="true" selection-start-line="119" selection-start-column="54" selection-end-line="119" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensGUIRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/DigitalPicture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensSimulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/CardGameGUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="152" column="44" lean-forward="true" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensSimulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -176,6 +329,8 @@
       <find>if(hour==hg &amp;&amp; minute == mg) correct++;</find>
       <find>Ten</find>
       <find>&amp;lt;</find>
+      <find>card</find>
+      <find>beac</find>
     </findStrings>
     <replaceStrings>
       <replace>5</replace>
@@ -209,13 +364,25 @@
         <option value="$PROJECT_DIR$/src/Elevens/Deck.java" />
         <option value="$PROJECT_DIR$/src/Elevens/DeckTester.java" />
         <option value="$PROJECT_DIR$/src/Elevens/Board.java" />
-        <option value="$PROJECT_DIR$/src/Elevens/ElevensBoard.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ElevensGUIRunner.java" />
-        <option value="$PROJECT_DIR$/src/Elevens/CardGameGUI.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ElevensSimulation.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensBoard.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensGUIRunner.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensSimulation.java" />
+        <option value="$PROJECT_DIR$/src/Elevens/CardGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/Elevens/ElevensBoard.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/ColorChooser.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/DigitalPicture.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/FileChooser.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/ImageDisplay.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureFrame.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/Pixel.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/SimplePicture.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureExplorer.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/IntArrayWorker.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/IntArrayWorkerTester.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java" />
+        <option value="$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java" />
       </list>
     </option>
   </component>
@@ -230,8 +397,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,12 +413,44 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Elevens" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,56 +474,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeckTester">
-    <configuration name="CardTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elevens.CardTester" />
+  <component name="RunManager" selected="Application.PictureTester">
+    <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.pixLab.classes.ColorChooser" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeckTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elevens.DeckTester" />
+    <configuration name="IntArrayWorkerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.pixLab.classes.IntArrayWorkerTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputGibberish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.InputGibberish" />
+    <configuration name="Picture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.pixLab.classes.Picture" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeasureFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit11.MeasureFile" />
+    <configuration name="PictureExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.pixLab.classes.PictureExplorer" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elevens.Shuffler" />
+    <configuration name="PictureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.pixLab.classes.PictureTester" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MeasureFile" />
-      <item itemvalue="Application.InputGibberish" />
-      <item itemvalue="Application.CardTester" />
-      <item itemvalue="Application.DeckTester" />
-      <item itemvalue="Application.Shuffler" />
+      <item itemvalue="Application.ColorChooser" />
+      <item itemvalue="Application.PictureExplorer" />
+      <item itemvalue="Application.IntArrayWorkerTester" />
+      <item itemvalue="Application.Picture" />
+      <item itemvalue="Application.PictureTester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeckTester" />
-        <item itemvalue="Application.Shuffler" />
-        <item itemvalue="Application.CardTester" />
-        <item itemvalue="Application.InputGibberish" />
-        <item itemvalue="Application.MeasureFile" />
+        <item itemvalue="Application.PictureTester" />
+        <item itemvalue="Application.Picture" />
+        <item itemvalue="Application.IntArrayWorkerTester" />
+        <item itemvalue="Application.PictureExplorer" />
+        <item itemvalue="Application.ColorChooser" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +573,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12532134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,7 +583,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30862534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30862534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +591,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3288835" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884097" />
       <window_info anchor="bottom" id="FRC" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,56 +637,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test commit on mac computer." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.project" />
-    <entry file="file://$PROJECT_DIR$/src/Unit13/TowerTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Review2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/Review1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit14/DuplicateRemoval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unit13/HanoiTower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Unit14/MathTutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
@@ -632,35 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Elevens/Shuffler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/CardGameGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="152" column="44" lean-forward="true" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
-          <folding>
-            <element signature="e#2965#2974#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensGUIRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="629">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -673,32 +793,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="493">
           <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensBoard.java">
+    <entry file="jar://$PROJECT_DIR$/../../Compilers/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="119" column="54" lean-forward="true" selection-start-line="119" selection-start-column="54" selection-end-line="119" selection-end-column="54" />
+        <state relative-caret-position="256">
+          <caret line="2260" column="33" lean-forward="true" selection-start-line="2260" selection-start-column="33" selection-end-line="2260" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="218">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Elevens/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="107" column="36" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Elevens/CardGameGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="242" column="3" selection-start-line="242" selection-start-column="3" selection-end-line="242" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/7inX95in.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/barbaraS.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/blueMotorcycle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="327">
+          <caret line="143" column="21" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensGUIRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/ImageDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/rightArrow.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/leftArrow.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/kitten2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/water.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/whiteFlower.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/moon-surface.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/ColorChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureExplorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13107">
+          <caret line="803" column="89" selection-start-line="803" selection-start-column="30" selection-end-line="803" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/Pixel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/IntArrayWorkerTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/IntArrayWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="130" column="32" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/DigitalPicture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/SimplePicture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="169" column="29" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="306" column="3" lean-forward="true" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
         </state>
       </provider>
     </entry>

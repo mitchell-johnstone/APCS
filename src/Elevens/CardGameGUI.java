@@ -221,11 +221,6 @@ public class CardGameGUI
 
 
 
-
-
-
-
-
   private String imageFileName(Card paramCard, boolean paramBoolean)
   {
     String str = "cards/";
