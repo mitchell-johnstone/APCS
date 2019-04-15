@@ -1,4 +1,7 @@
 package pixLab.pixLab.classes;
+
+import java.awt.*;
+
 /**
  * This class contains class (static) methods
  * that will help you test the Picture class 
@@ -54,6 +57,22 @@ public class PictureTester
     caterpillar.mirrorVertical();
     caterpillar.explore();
   }
+
+  public static void testMirrorHorizontal()
+  {
+    Picture motorcycle = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\blueMotorcycle.jpg");
+    motorcycle.explore();
+    motorcycle.mirrorHorizontal();
+    motorcycle.explore();
+  }
+
+  public static void testMirrorDiagonal()
+  {
+    Picture beach = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\beach.jpg");
+    beach.explore();
+    beach.mirrorDiagonal();
+    beach.explore();
+  }
   
   /** Method to test mirrorTemple */
   public static void testMirrorTemple()
@@ -63,7 +82,22 @@ public class PictureTester
     temple.mirrorTemple();
     temple.explore();
   }
-  
+
+  public static void testMirrorArms()
+  {
+    Picture snowman = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\snowman.jpg");
+    snowman.explore();
+    snowman.mirrorArms();
+    snowman.explore();
+  }
+
+  public static void testMirrorGull()
+  {
+    Picture gull = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\seagull.jpg");
+    gull.explore();
+    gull.mirrorGull();
+    gull.explore();
+  }
   /** Method to test the collage method */
   public static void testCollage()
   {
@@ -71,15 +105,71 @@ public class PictureTester
     canvas.createCollage();
     canvas.explore();
   }
-  
+
+  /** Method to test the collage method */
+  public static void testMyCollage()
+  {
+    Picture canvas = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\640x480.jpg");
+    canvas.myCollage();
+    canvas.explore();
+  }
+
   /** Method to test edgeDetection */
   public static void testEdgeDetection()
   {
     Picture swan = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\swan.jpg");
+    swan.explore();
     swan.edgeDetection(10);
     swan.explore();
   }
-  
+
+  /** Method to test edgeDetection */
+  public static void testEdgeDetection2()
+  {
+    Picture swan = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\swan.jpg");
+    swan.explore();
+    swan.edgeDetectionUpDown(10);
+    swan.explore();
+  }
+
+  /** Method to test edgeDetection */
+  public static void testEdgeDetectionBoth()
+  {
+    Picture swan = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\swan.jpg");
+    swan.explore();
+    swan.edgeDetectionBoth(10);
+    swan.explore();
+  }
+
+  /** Method to test MirrorVerticalLeftToRight */
+  public static void testMirrorVerticalLeftToRight()
+  {
+    Picture caterpillar = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\caterpillar.jpg");
+    caterpillar.explore();
+    caterpillar.mirrorVerticalRightToLeft();
+    caterpillar.explore();
+  }
+
+  public static void testEncodeAndDecode(){
+    Picture holder = new Picture ("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\beach.jpg");
+    Picture msg = new Picture ("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\msg.jpg");
+    msg.explore();
+    holder.explore();
+    holder.encode(msg);
+    holder.explore();
+    holder.decode();
+    holder.explore();
+  }
+
+  public static void testChromakey()
+  {
+    Picture bluemark = new Picture ("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\blue-mark.jpg");
+    bluemark.explore();
+    Color target = new Color(15,35,75);
+    Picture p = new Picture("C:\\Programming\\Work\\APCS\\src\\pixLab\\pixLab\\images\\beach.jpg");
+    bluemark.chromakey(p,target);
+    bluemark.explore();
+  }
   /** Main method for testing.  Every class can have a main
     * method in Java */
   public static void main(String[] args)
@@ -93,21 +183,26 @@ public class PictureTester
 //    testKeepOnlyGreen();
 //    testNegate();
 //    testGrayscale();
-    testFixUnderwater();
+//    testFixUnderwater();
 //    testMirrorVertical();
+//    testMirrorHorizontal();
+//    testMirrorDiagonal();
+//    testMirrorVerticalLeftToRight();
 //    testMirrorTemple();
-    //testMirrorArms();
-    //testMirrorGull();
-    //testMirrorDiagonal();
-    //testCollage();
+//    testMirrorArms();
+//    testMirrorGull();
+//    testMirrorDiagonal();
+//    testCollage();
+//    testMyCollage();
 //    testCopy();
-    //testEdgeDetection();
-    //testEdgeDetection2();
-    //testChromakey();
-//    testEncodeAndDecode();
-    //testGetCountRedOverValue(250);
-    //testSetRedToHalfValueInTopHalf();
+//    testEdgeDetection();
+//    testEdgeDetection2();
+//    testEdgeDetectionBoth();
+//    testChromakey();
+    testEncodeAndDecode();
+//    testGetCountRedOverValue(250);
+//    testSetRedToHalfValueInTopHalf();
 //    testClearBlueOverValue(200);
-    //testGetAverageForColumn(0);
+//    testGetAverageForColumn(0);
   }
 }
