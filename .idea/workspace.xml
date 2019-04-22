@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/Picture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/PictureTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/PictureTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,13 +42,14 @@
     <session id="892606200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -69,30 +66,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="486" column="52" lean-forward="true" selection-start-line="486" selection-start-column="52" selection-end-line="486" selection-end-column="52" />
-              <folding>
-                <element signature="e#7561#7562#0" expanded="true" />
-                <element signature="e#7602#7603#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -194,44 +168,29 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="MagpieLab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
+              <item name="MagpieLab" type="462c0819:PsiDirectoryNode" />
+              <item name="MagpieActivityStarterCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="pixLab" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="MagpieLab" type="462c0819:PsiDirectoryNode" />
+              <item name="MagpieActivityStarterCode" type="462c0819:PsiDirectoryNode" />
+              <item name="activity2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +312,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18830334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19344473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -722,7 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="2703">
           <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
         </state>
       </provider>
@@ -730,11 +689,7 @@
     <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/Picture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="486" column="52" lean-forward="true" selection-start-line="486" selection-start-column="52" selection-end-line="486" selection-end-column="52" />
-          <folding>
-            <element signature="e#7561#7562#0" expanded="true" />
-            <element signature="e#7602#7603#0" expanded="true" />
-          </folding>
+          <caret line="486" column="52" selection-start-line="486" selection-start-column="52" selection-end-line="486" selection-end-column="52" />
         </state>
       </provider>
     </entry>
