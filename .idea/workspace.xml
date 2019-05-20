@@ -2,106 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/extensions/Magpie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/extensions/MagpieRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/extensions/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FriendsDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FriendsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FriendsNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedContacts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/pixLab/pixLab/classes/Picture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity2/Magpie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity2/Magpie2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity2/MagpieRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity2/MagpieRunner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/Magpie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/Magpie3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/MagpieRunner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/MagpieRunner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/StringExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity3/StringExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity4/Magpie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity4/Magpie4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity4/MagpieRunner4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity4/MagpieRunner4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity5/Magpie5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity5/Magpie5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity5/MagpieRunner5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MagpieLab/MagpieActivityStarterCode/activity5/MagpieRunner5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/._MagpieActivityStarterCode" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/._activity2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/._activity3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/._activity4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/._activity5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/._Magpie2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/._MagpieRunner2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/._doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._Magpie2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/._stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/resources/._Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/doc/resources/._inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/resources/._Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity2/resources/._inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/._Magpie3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/._MagpieRunner3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/._StringExplorer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/._doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._Magpie3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/._stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity3/doc/resources/._inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/._Magpie4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/._MagpieRunner4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/._doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._Magpie4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/._stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity4/doc/resources/._inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/._Magpie5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/._MagpieRunner5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/._doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._Magpie5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/._stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MagpieLab/__MACOSX/MagpieActivityStarterCode/activity5/doc/resources/._inherit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/LinkedList/MagazineRack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/LinkedList/MagazineRack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit13/MazeSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/Unit13/MazeSearch.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,10 +49,10 @@
     <session id="892606200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="5" />
@@ -152,18 +60,18 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8829" />
+          <entry key="JAVA" value="13709" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="11" />
-          <entry key="JAVA" value="62" />
+          <entry key="JAVA" value="80" />
         </counts>
       </usages-collector>
     </session>
@@ -171,40 +79,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/Magazine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/MagazineList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            <state relative-caret-position="227">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/MagazineRack.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1918#1919#0" expanded="true" />
+                <element signature="e#1957#1958#0" expanded="true" />
+                <element signature="e#4834#4835#0" expanded="true" />
+                <element signature="e#4862#4863#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -245,11 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit14/NCAABracket.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/TextIO.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/MeasureFile.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/P11.java" />
-        <option value="$PROJECT_DIR$/src/Unit11/Gibberish.java" />
         <option value="$PROJECT_DIR$/src/Unit11/P12.java" />
         <option value="$PROJECT_DIR$/src/Unit11/InputGibberish.java" />
         <option value="$PROJECT_DIR$/src/Elevens/Card.java" />
@@ -296,6 +221,11 @@
         <option value="$PROJECT_DIR$/src/LinkedList/MagazineList.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/MagazineRack.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/Contact.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/LinkedContacts.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/FriendsNode.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/FriendsDriver.java" />
+        <option value="$PROJECT_DIR$/src/Unit13/MazeSearch.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/FriendsList.java" />
       </list>
     </option>
   </component>
@@ -326,7 +256,7 @@
               <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +292,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MagazineRack">
+  <component name="RunManager" selected="Application.FriendsDriver">
+    <configuration name="FriendsDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.FriendsDriver" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedContacts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedContacts" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MagazineRack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.MagazineRack" />
       <module name="APCS" />
@@ -377,41 +321,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagpieRunner3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MagpieLab.MagpieActivityStarterCode.activity3.MagpieRunner3" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MagpieRunner4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MagpieLab.MagpieActivityStarterCode.activity4.MagpieRunner4" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MagpieRunner5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MagpieLab.MagpieActivityStarterCode.activity5.MagpieRunner5" />
+    <configuration name="MazeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit13.MazeSearch" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MagpieRunner3" />
-      <item itemvalue="Application.MagpieRunner4" />
-      <item itemvalue="Application.MagpieRunner5" />
       <item itemvalue="Application.MagpieRunner" />
       <item itemvalue="Application.MagazineRack" />
+      <item itemvalue="Application.LinkedContacts" />
+      <item itemvalue="Application.FriendsDriver" />
+      <item itemvalue="Application.MazeSearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FriendsDriver" />
+        <item itemvalue="Application.MazeSearch" />
+        <item itemvalue="Application.LinkedContacts" />
         <item itemvalue="Application.MagazineRack" />
         <item itemvalue="Application.MagpieRunner" />
-        <item itemvalue="Application.MagpieRunner5" />
-        <item itemvalue="Application.MagpieRunner4" />
-        <item itemvalue="Application.MagpieRunner3" />
       </list>
     </recent_temporary>
   </component>
@@ -459,9 +389,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20886889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2114396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,7 +400,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30862534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36657682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,6 +419,36 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2114396" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30862534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3288835" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="FRC" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -525,55 +484,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test commit on mac computer." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Elevens/Shuffler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensGUIRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Compilers/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="2260" column="33" lean-forward="true" selection-start-line="2260" selection-start-column="33" selection-end-line="2260" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ElevensSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/ThirteensBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Elevens/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="107" column="36" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Elevens/CardGameGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -801,41 +711,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
+    <entry file="jar://$PROJECT_DIR$/../../Compilers/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="179">
+          <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/Magazine.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state>
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/MagazineList.java">
+    <entry file="jar://$PROJECT_DIR$/../../Compilers/Java/jdk1.8.0_191/src.zip!/java/util/ListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="140" column="53" selection-start-line="140" selection-start-column="53" selection-end-line="140" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedContacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Magazine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/MagazineRack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/MagazineList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="108" column="52" selection-start-line="108" selection-start-column="52" selection-end-line="108" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unit13/MazeSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/FriendsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1918#1919#0" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+            <element signature="e#4834#4835#0" expanded="true" />
+            <element signature="e#4862#4863#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
