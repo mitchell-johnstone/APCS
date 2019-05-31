@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ba6aac-ed43-4b66-bbbe-fac2ef3dc881" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/MovieLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/PriorityToDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/ToDoQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackyQues/WordSmithStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackyQues/MovieMultipleLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackyQues/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackyQues/P15_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/LinkedList/FriendsList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/LinkedList/FriendsList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APCS/production/APCS/StackyQues/MovieLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APCS/production/APCS/StackyQues/MovieLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackyQues/MovieLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackyQues/MovieLine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,30 +47,31 @@
     <session id="892606200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="5" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14972" />
+          <entry key="JAVA" value="19008" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="11" />
-          <entry key="JAVA" value="88" />
+          <entry key="JAVA" value="97" />
         </counts>
       </usages-collector>
     </session>
@@ -80,53 +79,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/WordSmithStack.java">
+        <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            <state relative-caret-position="935">
+              <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#271#282#0" expanded="true" />
-                <element signature="e#372#383#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/PriorityToDos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="e#218#224#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieLine.java">
+        <entry file="file://$PROJECT_DIR$/src/StackyQues/P15_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="286">
+              <caret line="145" column="23" lean-forward="true" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,22 +103,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/Task.java">
+        <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="170">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StackyQues/ToDoQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/StackyQues/WordSmithStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="408">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#191#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StackyQues/Operator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieMultipleLines.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,15 +175,15 @@
       <find>&amp;gt;</find>
       <find>&amp;quot;</find>
       <find>&amp;lt;</find>
-      <find>&amp;#39;</find>
       <find>remove</find>
+      <find>&amp;#39;</find>
     </findStrings>
     <replaceStrings>
       <replace>5</replace>
       <replace>&gt;</replace>
       <replace>&quot;</replace>
-      <replace>'</replace>
       <replace>&lt;</replace>
+      <replace>'</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,10 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Elevens/DeckTester.java" />
-        <option value="$PROJECT_DIR$/src/Elevens/Board.java" />
-        <option value="$PROJECT_DIR$/src/Elevens/ElevensGUIRunner.java" />
-        <option value="$PROJECT_DIR$/src/Elevens/ElevensSimulation.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensBoard.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensGUIRunner.java" />
         <option value="$PROJECT_DIR$/src/Elevens/ThirteensSimulation.java" />
@@ -247,7 +239,11 @@
         <option value="$PROJECT_DIR$/src/StackyQues/Task.java" />
         <option value="$PROJECT_DIR$/src/StackyQues/Customer.java" />
         <option value="$PROJECT_DIR$/src/StackyQues/PriorityToDos.java" />
+        <option value="$PROJECT_DIR$/src/StackyQues/MovieMultipleLines.java" />
+        <option value="$PROJECT_DIR$/src/StackyQues/Operator.java" />
         <option value="$PROJECT_DIR$/src/StackyQues/MovieLine.java" />
+        <option value="$PROJECT_DIR$/src/Unit11/SerpTriangle.java" />
+        <option value="$PROJECT_DIR$/src/StackyQues/P15_3.java" />
       </list>
     </option>
   </component>
@@ -262,6 +258,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,18 +272,10 @@
               <item name="APCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="APCS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APCS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StackyQues" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,21 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MovieLine">
-    <configuration name="FriendsDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.FriendsDriver" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MazeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit13.MazeSearch" />
-      <module name="APCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P15_3">
     <configuration name="MovieLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackyQues.MovieLine" />
       <module name="APCS" />
@@ -336,8 +312,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P15_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackyQues.P15_3" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PriorityToDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackyQues.PriorityToDos" />
+      <module name="APCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerpTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit11.SerpTriangle" />
       <module name="APCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -351,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FriendsDriver" />
-      <item itemvalue="Application.MazeSearch" />
       <item itemvalue="Application.ToDoQueue" />
       <item itemvalue="Application.PriorityToDos" />
       <item itemvalue="Application.MovieLine" />
+      <item itemvalue="Application.P15_3" />
+      <item itemvalue="Application.SerpTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15_3" />
+        <item itemvalue="Application.SerpTriangle" />
         <item itemvalue="Application.MovieLine" />
         <item itemvalue="Application.PriorityToDos" />
         <item itemvalue="Application.ToDoQueue" />
-        <item itemvalue="Application.FriendsDriver" />
-        <item itemvalue="Application.MazeSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -411,9 +401,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21401028" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22172236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -423,7 +412,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17385444" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31536388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,36 +431,6 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2114396" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30862534" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3288835" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884097" />
-      <window_info anchor="bottom" id="FRC" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -507,38 +466,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test commit on mac computer." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/rightArrow.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/leftArrow.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/kitten2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/water.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/whiteFlower.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/images/moon-surface.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/ColorChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pixLab/pixLab/classes/PictureExplorer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13107">
@@ -750,12 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="116" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,25 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackyQues/WordSmithStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#282#0" expanded="true" />
-            <element signature="e#372#383#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackyQues/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/Tester.java" />
     <entry file="jar://$PROJECT_DIR$/../../Compilers/Java/jdk1.8.0_191/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1592">
@@ -820,42 +720,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#191#197#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackyQues/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackyQues/PriorityToDos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="179">
           <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animation/Canvas.java" />
+    <entry file="file://$PROJECT_DIR$/src/Animation/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/Animation/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Animation/Driver.java" />
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
           <folding>
-            <element signature="e#218#224#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieLine.java">
+    <entry file="file://$PROJECT_DIR$/src/Unit11/SerpTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="170">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/WordSmithStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/MovieMultipleLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackyQues/P15_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="145" column="23" lean-forward="true" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
