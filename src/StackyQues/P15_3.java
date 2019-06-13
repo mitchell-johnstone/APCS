@@ -63,11 +63,11 @@ public class P15_3 {
                 expression = expression.substring(1);
                 if (tmp.equals("(")) {
                     //if parenthesis, call recursively
-                    int end = findPair(expression.substring(1));
+                    int end = findPair(expression);
 
                     if(end == -1) throw new IllegalArgumentException();
 
-                    Stack<Integer> t = calculate(expression.substring(0,end));
+                    Stack<Integer> t = calculate(expression.substring(0,--end));
                     numbers.push(t.pop());
                     expression = expression.substring(end+1);
 
